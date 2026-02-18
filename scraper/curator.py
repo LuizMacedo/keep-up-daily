@@ -46,10 +46,10 @@ CATEGORY_EMOJI = {
 
 # GitHub Models free-tier limits: ~8 000 input tokens for gpt-4o-mini.
 # We keep a safe margin and progressively reduce if we hit 413.
-_MAX_AI_ARTICLES = 25          # first attempt
-_MAX_AI_ARTICLES_RETRY = 12    # retry with fewer articles
+_MAX_AI_ARTICLES = 30          # first attempt
+_MAX_AI_ARTICLES_RETRY = 15    # retry with fewer articles
 _DESC_MAX_CHARS = 120          # trim descriptions to save tokens
-_MAX_OUTPUT_TOKENS = 4096      # cap output for free tier
+_MAX_OUTPUT_TOKENS = 6144      # enough room for 10-12 entries
 
 # Token env var – ONLY GH_MODELS_TOKEN works with GitHub Models API.
 # The automatic GITHUB_TOKEN (${{ github.token }}) does NOT have access to
@@ -178,10 +178,10 @@ def _call_ai(
     prompt = f"""You have {len(condensed)} tech articles scraped today.
 Categories: {cat_summary}
 
-Create a developer daily digest. Write 8-15 entries (one per interesting topic).
+Create a developer daily digest. Write 10-12 entries (one per interesting topic).
 Merge related articles into a single entry.
 
-Each entry is a SELF-CONTAINED mini-article (150-200 words per language).
+Each entry is a SELF-CONTAINED mini-article (120-180 words per language).
 Structure: lead (why care?), technical depth (how it works, key details, trade-offs),
 practical angle (when to use it), and a punchy takeaway.
 
