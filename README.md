@@ -18,22 +18,22 @@
 
 **Keep Up Daily** is a Python-powered web scraper that automatically collects trending tech articles, tutorials, and repositories every single day — and publishes them as a clean, distraction-free reading dashboard on GitHub Pages.
 
-No ads. No tracking. No monetisation. Just pure learning content.
+No ads. No tracking. No monetization. Just pure learning content.
 
 ### Sources
 
-| Source | Type | What it captures |
-|--------|------|------------------|
-| **Dev.to** | REST API | Top community articles |
-| **Hacker News** | Firebase API | Top stories |
-| **GitHub Trending** | HTML scraping | Daily trending repositories |
-| **Reddit** | JSON API | Hot posts from 11 programming subreddits |
-| **Lobste.rs** | JSON API | Hottest tech stories |
-| **Hashnode** | GraphQL API | Best developer blog posts |
+| Source              | Type          | What it captures                         |
+| ------------------- | ------------- | ---------------------------------------- |
+| **Dev.to**          | REST API      | Top community articles                   |
+| **Hacker News**     | Firebase API  | Top stories                              |
+| **GitHub Trending** | HTML scraping | Daily trending repositories              |
+| **Reddit**          | JSON API      | Hot posts from 11 programming subreddits |
+| **Lobste.rs**       | JSON API      | Hottest tech stories                     |
+| **Hashnode**        | GraphQL API   | Best developer blog posts                |
 
 ### Categories
 
-Content is automatically categorised into: **AI & ML**, **Web Dev**, **DevOps & Cloud**, **Languages**, **Frameworks**, **Security**, **Career**, and **General**.
+Content is automatically categorized into: **AI & ML**, **Web Dev**, **DevOps & Cloud**, **Languages**, **Frameworks**, **Security**, **Career**, and **General**.
 
 ---
 
@@ -61,7 +61,7 @@ keep-up-daily/
 │   ├── __main__.py          # python -m scraper entrypoint
 │   ├── main.py              # Orchestrator
 │   ├── config.py            # All configuration in one place
-│   ├── categorizer.py       # Keyword-based categorisation
+│   ├── categorizer.py       # Keyword-based categorization
 │   ├── output.py            # JSON output + data retention
 │   └── sources/
 │       ├── __init__.py      # Exports ALL_SCRAPERS list
@@ -122,7 +122,7 @@ cd /tmp/kud-preview && python -m http.server 8000
 Once pushed to GitHub, the workflow runs automatically:
 
 - **Every day at 8:00 AM Central Time (14:00 UTC)**
-- Can also be triggered manually: *Actions → Keep Up Daily → Run workflow*
+- Can also be triggered manually: _Actions → Keep Up Daily → Run workflow_
 - Scrapes all sources, commits data, and deploys to GitHub Pages
 
 ---
@@ -140,9 +140,9 @@ To activate the dashboard on your fork:
 
 ---
 
-## How to Fork & Personalise
+## How to Fork & Personalize
 
-This project is designed to be forked and customised. Here's how:
+This project is designed to be forked and customized. Here's how:
 
 ### 1. Fork the repository
 
@@ -152,13 +152,13 @@ Click the **Fork** button at the top of this page.
 
 Follow the instructions above to set the source to "GitHub Actions".
 
-### 3. Customise sources
+### 3. Customize sources
 
 Edit `scraper/config.py`:
 
 ```python
 # Add/remove subreddits
-SOURCES["reddit"]["subreddits"] = ["programming", "rust", "your_favourite_sub"]
+SOURCES["reddit"]["subreddits"] = ["programming", "rust", "your_favorite_sub"]
 
 # Disable a source
 SOURCES["hashnode"]["enabled"] = False
@@ -167,7 +167,7 @@ SOURCES["hashnode"]["enabled"] = False
 SOURCES["github_trending"]["languages"] = ["", "python", "rust", "zig"]
 ```
 
-### 4. Customise categories
+### 4. Customize categories
 
 Edit the `CATEGORIES` dictionary in `scraper/config.py` to add keywords for topics you care about.
 
@@ -218,16 +218,16 @@ Contributions are welcome! This project is meant to help the developer community
 ### Ideas for Contributions
 
 - 🌐 **New sources** — add scrapers for tech newsletters, podcasts, YouTube channels
-- 🏷️ **Better categorisation** — improve keyword matching or add ML-based classification
+- 🏷️ **Better categorization** — improve keyword matching or add ML-based classification
 - 🌍 **More languages** — add UI translations beyond EN/PT
 - 📊 **Analytics** — weekly trends, most popular topics, source comparison
 - 🎨 **UI improvements** — accessibility, animations, reading progress
 - 📱 **PWA support** — offline reading, push notifications
-- 🧪 **Tests** — unit tests for scrapers and categoriser
+- 🧪 **Tests** — unit tests for scrapers and categorizer
 
 ### For Experienced Developers
 
-The codebase follows a modular architecture. Each source scraper is independent and follows the `BaseScraper` interface. The `Article` dataclass is the normalised schema. Feel free to refactor, optimise, or propose architectural changes.
+The codebase follows a modular architecture. Each source scraper is independent and follows the `BaseScraper` interface. The `Article` dataclass is the normalized schema. Feel free to refactor, optimize, or propose architectural changes.
 
 ---
 
@@ -235,7 +235,7 @@ The codebase follows a modular architecture. Each source scraper is independent 
 
 ```
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐
-│  Dev.to     │     │              │     │  Categorise │
+│  Dev.to     │     │              │     │  Categorize │
 │  HackerNews │────▶│  Orchestrator│────▶│  Deduplicate│
 │  GitHub     │     │  (main.py)   │     │  Sort       │
 │  Reddit     │     │              │     │             │
@@ -255,9 +255,10 @@ The codebase follows a modular architecture. Each source scraper is independent 
 ```
 
 **Daily at 14:00 UTC**, GitHub Actions:
+
 1. Runs all scrapers in sequence (with error isolation)
 2. Deduplicates articles by URL
-3. Categorises using keyword matching
+3. Categorizes using keyword matching
 4. Sorts by engagement score
 5. Saves to `data/YYYY-MM-DD.json`
 6. Commits and pushes data
@@ -270,6 +271,7 @@ The codebase follows a modular architecture. Each source scraper is independent 
 > "The best time to start learning was yesterday. The second best time is today."
 
 This project exists because:
+
 - **Staying current** in tech is overwhelming — there are too many sources to check
 - **Curated feeds** shouldn't cost money or track you
 - **Open source tools** should make learning accessible to everyone
@@ -287,7 +289,7 @@ MIT — use it however you want. See [LICENSE](LICENSE) for details.
 
 **Made with ❤️ for the developer community**
 
-*If this helps you learn something new, consider sharing it with a fellow developer.*
+_If this helps you learn something new, consider sharing it with a fellow developer._
 
 ⭐ Star this repo if you find it useful!
 

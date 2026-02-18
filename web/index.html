@@ -1,173 +1,240 @@
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Keep Up Daily — Developer Digest</title>
-  <meta name="description" content="A free, AI-curated daily digest of the most important tech news, written for developers." />
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Keep Up Daily — Developer Digest</title>
+    <meta name="description"
+        content="A free, AI-curated daily digest of the most important tech news, written for developers." />
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>" />
 
-  <!-- Tailwind CSS -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          fontFamily: {
-            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
-          },
-          colors: {
-            brand: { 50: '#eef2ff', 100: '#e0e7ff', 400: '#818cf8', 500: '#6366f1', 600: '#4f46e5', 700: '#4338ca' },
-          },
-        },
-      },
-    }
-  </script>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+                    },
+                    colors: {
+                        brand: { 50: '#eef2ff', 100: '#e0e7ff', 400: '#818cf8', 500: '#6366f1', 600: '#4f46e5', 700: '#4338ca' },
+                    },
+                },
+            },
+        }
+    </script>
 
-  <!-- Inter font -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <!-- Inter font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet" />
 
-  <style>
-    .cat-pill { transition: all 0.15s ease; }
-    .cat-pill.active { box-shadow: 0 0 0 2px rgba(99,102,241,0.4); }
+    <style>
+        .cat-pill {
+            transition: all 0.15s ease;
+        }
 
-    .hide-scrollbar::-webkit-scrollbar { display: none; }
-    .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        .cat-pill.active {
+            box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.4);
+        }
 
-    .digest-entry { transition: box-shadow 0.15s ease; }
-    .digest-entry:hover { box-shadow: 0 4px 24px rgba(0,0,0,0.06); }
-    .dark .digest-entry:hover { box-shadow: 0 4px 24px rgba(0,0,0,0.3); }
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
 
-    /* Prose body styling */
-    .prose-body p { margin-bottom: 0; }
-    .prose-body strong { font-weight: 600; }
-    .prose-body ul { padding-left: 0; }
-    .prose-body li { color: inherit; }
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
 
-    @keyframes shimmer { to { background-position: -200% 0; } }
-    .skeleton {
-      background: linear-gradient(90deg, #e5e7eb 25%, #f3f4f6 50%, #e5e7eb 75%);
-      background-size: 200% 100%;
-      animation: shimmer 1.5s infinite;
-    }
-    .dark .skeleton {
-      background: linear-gradient(90deg, #374151 25%, #4b5563 50%, #374151 75%);
-      background-size: 200% 100%;
-    }
-  </style>
+        .digest-entry {
+            transition: box-shadow 0.15s ease;
+        }
+
+        .digest-entry:hover {
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+        }
+
+        .dark .digest-entry:hover {
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Prose body styling */
+        .prose-body p {
+            margin-bottom: 0;
+        }
+
+        .prose-body p+p {
+            margin-top: 0.75rem;
+        }
+
+        .prose-body strong {
+            font-weight: 600;
+            color: var(--tw-prose-bold, inherit);
+        }
+
+        .prose-body ul,
+        .prose-body ol {
+            padding-left: 0;
+        }
+
+        .prose-body li {
+            color: inherit;
+        }
+
+        .prose-body hr {
+            margin: 1rem 0;
+        }
+
+        .prose-body h3,
+        .prose-body h4,
+        .prose-body h5 {
+            color: inherit;
+        }
+
+        @keyframes shimmer {
+            to {
+                background-position: -200% 0;
+            }
+        }
+
+        .skeleton {
+            background: linear-gradient(90deg, #e5e7eb 25%, #f3f4f6 50%, #e5e7eb 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite;
+        }
+
+        .dark .skeleton {
+            background: linear-gradient(90deg, #374151 25%, #4b5563 50%, #374151 75%);
+            background-size: 200% 100%;
+        }
+    </style>
 </head>
 
 <body class="bg-gray-50 dark:bg-slate-950 text-slate-800 dark:text-slate-200 min-h-screen font-sans antialiased">
 
-  <!-- ====== HEADER ====== -->
-  <header class="sticky top-0 z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-gray-200 dark:border-slate-800">
-    <div class="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
-      <div class="flex items-center gap-2">
-        <span class="text-2xl" aria-hidden="true">📰</span>
-        <div>
-          <h1 class="text-lg font-bold leading-tight text-slate-900 dark:text-white" data-i18n="title">Keep Up Daily</h1>
-          <p class="text-xs text-slate-500 dark:text-slate-400 leading-tight" data-i18n="subtitle">Your daily developer digest</p>
+    <!-- ====== HEADER ====== -->
+    <header
+        class="sticky top-0 z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-gray-200 dark:border-slate-800">
+        <div class="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <span class="text-2xl" aria-hidden="true">📰</span>
+                <div>
+                    <h1 class="text-lg font-bold leading-tight text-slate-900 dark:text-white" data-i18n="title">Keep Up
+                        Daily</h1>
+                    <p class="text-xs text-slate-500 dark:text-slate-400 leading-tight" data-i18n="subtitle">Your daily
+                        developer digest</p>
+                </div>
+            </div>
+            <div class="flex items-center gap-2">
+                <button id="lang-toggle"
+                    class="text-xs font-medium px-2.5 py-1.5 rounded-md bg-gray-100 dark:bg-slate-800 hover:bg-gray-200 dark:hover:bg-slate-700 transition"
+                    aria-label="Toggle language">EN</button>
+                <button id="dark-toggle"
+                    class="p-2 rounded-md bg-gray-100 dark:bg-slate-800 hover:bg-gray-200 dark:hover:bg-slate-700 transition"
+                    aria-label="Toggle dark mode">
+                    <svg class="w-4 h-4 hidden dark:block" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+                        stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M12 3v1m0 16v1m8.66-13.66l-.71.71M4.05 19.95l-.71.71M21 12h-1M4 12H3m16.66 7.66l-.71-.71M4.05 4.05l-.71-.71M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+                    </svg>
+                    <svg class="w-4 h-4 block dark:hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+                        stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+                    </svg>
+                </button>
+            </div>
         </div>
-      </div>
-      <div class="flex items-center gap-2">
-        <button id="lang-toggle"
-                class="text-xs font-medium px-2.5 py-1.5 rounded-md bg-gray-100 dark:bg-slate-800 hover:bg-gray-200 dark:hover:bg-slate-700 transition"
-                aria-label="Toggle language">EN</button>
-        <button id="dark-toggle"
-                class="p-2 rounded-md bg-gray-100 dark:bg-slate-800 hover:bg-gray-200 dark:hover:bg-slate-700 transition"
-                aria-label="Toggle dark mode">
-          <svg class="w-4 h-4 hidden dark:block" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m8.66-13.66l-.71.71M4.05 19.95l-.71.71M21 12h-1M4 12H3m16.66 7.66l-.71-.71M4.05 4.05l-.71-.71M16 12a4 4 0 11-8 0 4 4 0 018 0z"/>
-          </svg>
-          <svg class="w-4 h-4 block dark:hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/>
-          </svg>
-        </button>
-      </div>
-    </div>
-  </header>
+    </header>
 
-  <main class="max-w-3xl mx-auto px-4 pt-6 pb-16">
+    <main class="max-w-3xl mx-auto px-4 pt-6 pb-16">
 
-    <!-- ====== STATS ====== -->
-    <div class="text-center mb-2">
-      <span id="stats-count" class="text-sm text-slate-500 dark:text-slate-400"></span>
-    </div>
+        <!-- ====== STATS ====== -->
+        <div class="text-center mb-2">
+            <span id="stats-count" class="text-sm text-slate-500 dark:text-slate-400"></span>
+        </div>
 
-    <!-- ====== DATE NAVIGATION ====== -->
-    <div class="flex items-center justify-center gap-3 mb-5">
-      <button id="date-prev"
-              class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-slate-800 transition disabled:opacity-30"
-              aria-label="Previous day">
-        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/>
-        </svg>
-      </button>
-      <span id="current-date" class="text-base font-semibold min-w-[180px] text-center"></span>
-      <button id="date-next"
-              class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-slate-800 transition disabled:opacity-30"
-              aria-label="Next day">
-        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-        </svg>
-      </button>
-    </div>
+        <!-- ====== DATE NAVIGATION ====== -->
+        <div class="flex items-center justify-center gap-3 mb-5">
+            <button id="date-prev"
+                class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-slate-800 transition disabled:opacity-30"
+                aria-label="Previous day">
+                <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+                </svg>
+            </button>
+            <span id="current-date" class="text-base font-semibold min-w-[180px] text-center"></span>
+            <button id="date-next"
+                class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-slate-800 transition disabled:opacity-30"
+                aria-label="Next day">
+                <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+                </svg>
+            </button>
+        </div>
 
-    <!-- ====== CATEGORY FILTER ====== -->
-    <div class="mb-5 overflow-x-auto hide-scrollbar -mx-4 px-4">
-      <div id="category-bar" class="flex gap-2 min-w-max justify-center"></div>
-    </div>
+        <!-- ====== CATEGORY FILTER ====== -->
+        <div class="mb-5 overflow-x-auto hide-scrollbar -mx-4 px-4">
+            <div id="category-bar" class="flex gap-2 min-w-max justify-center"></div>
+        </div>
 
-    <!-- ====== SEARCH ====== -->
-    <div class="mb-8">
-      <div class="relative max-w-md mx-auto">
-        <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35m0 0A7.5 7.5 0 1010.5 18a7.5 7.5 0 006.15-3.35z"/>
-        </svg>
-        <input id="search-input" type="search" placeholder="Search digest…"
-               class="w-full pl-10 pr-4 py-2.5 text-sm rounded-lg border border-gray-200 dark:border-slate-700 bg-white dark:bg-slate-900 focus:outline-none focus:ring-2 focus:ring-brand-500/40 transition" />
-      </div>
-    </div>
+        <!-- ====== SEARCH ====== -->
+        <div class="mb-8">
+            <div class="relative max-w-md mx-auto">
+                <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" fill="none"
+                    viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round"
+                        d="M21 21l-4.35-4.35m0 0A7.5 7.5 0 1010.5 18a7.5 7.5 0 006.15-3.35z" />
+                </svg>
+                <input id="search-input" type="search" placeholder="Search digest…"
+                    class="w-full pl-10 pr-4 py-2.5 text-sm rounded-lg border border-gray-200 dark:border-slate-700 bg-white dark:bg-slate-900 focus:outline-none focus:ring-2 focus:ring-brand-500/40 transition" />
+            </div>
+        </div>
 
-    <!-- ====== DIGEST LIST ====== -->
-    <div id="digest-list" class="space-y-6"></div>
+        <!-- ====== DIGEST LIST ====== -->
+        <div id="digest-list" class="space-y-6"></div>
 
-    <!-- ====== STATES ====== -->
-    <div id="loading-state" class="hidden space-y-6">
-      <div class="skeleton h-52 rounded-2xl"></div>
-      <div class="skeleton h-52 rounded-2xl"></div>
-      <div class="skeleton h-52 rounded-2xl"></div>
-    </div>
+        <!-- ====== STATES ====== -->
+        <div id="loading-state" class="hidden space-y-6">
+            <div class="skeleton h-52 rounded-2xl"></div>
+            <div class="skeleton h-52 rounded-2xl"></div>
+            <div class="skeleton h-52 rounded-2xl"></div>
+        </div>
 
-    <div id="empty-state" class="hidden text-center py-20">
-      <span class="text-5xl mb-4 block">📭</span>
-      <h2 class="text-lg font-semibold mb-2" data-i18n="noDataTitle">No digest yet</h2>
-      <p class="text-sm text-slate-500 dark:text-slate-400 max-w-md mx-auto" data-i18n="noDataDesc">
-        The digest is generated daily at 8:00 AM CT. You can also trigger it manually from GitHub Actions.
-      </p>
-    </div>
+        <div id="empty-state" class="hidden text-center py-20">
+            <span class="text-5xl mb-4 block">📭</span>
+            <h2 class="text-lg font-semibold mb-2" data-i18n="noDataTitle">No digest yet</h2>
+            <p class="text-sm text-slate-500 dark:text-slate-400 max-w-md mx-auto" data-i18n="noDataDesc">
+                The digest is generated daily at 8:00 AM CT. You can also trigger it manually from GitHub Actions.
+            </p>
+        </div>
 
-    <div id="no-match-state" class="hidden text-center py-20">
-      <span class="text-5xl mb-4 block">🔍</span>
-      <p class="text-sm text-slate-500 dark:text-slate-400" data-i18n="noMatch">No entries match your filter.</p>
-    </div>
+        <div id="no-match-state" class="hidden text-center py-20">
+            <span class="text-5xl mb-4 block">🔍</span>
+            <p class="text-sm text-slate-500 dark:text-slate-400" data-i18n="noMatch">No entries match your filter.</p>
+        </div>
 
-  </main>
+    </main>
 
-  <!-- ====== FOOTER ====== -->
-  <footer class="border-t border-gray-200 dark:border-slate-800 py-6 text-center text-xs text-slate-400 dark:text-slate-500">
-    <p>
-      <span data-i18n="footerBuilt">Built for developers who never stop learning.</span><br />
-      <a href="https://github.com/LuizMacedo/keep-up-daily" target="_blank" rel="noopener"
-         class="underline hover:text-brand-600 dark:hover:text-brand-500 transition">GitHub</a>
-      &middot;
-      <span data-i18n="footerFree">100% free, zero ads, open source.</span>
-    </p>
-  </footer>
+    <!-- ====== FOOTER ====== -->
+    <footer
+        class="border-t border-gray-200 dark:border-slate-800 py-6 text-center text-xs text-slate-400 dark:text-slate-500">
+        <p>
+            <span data-i18n="footerBuilt">Built for developers who never stop learning.</span><br />
+            <a href="https://github.com/LuizMacedo/keep-up-daily" target="_blank" rel="noopener"
+                class="underline hover:text-brand-600 dark:hover:text-brand-500 transition">GitHub</a>
+            &middot;
+            <span data-i18n="footerFree">100% free, zero ads, open source.</span>
+        </p>
+    </footer>
 
-  <script src="app.js"></script>
+    <script src="app.js"></script>
 </body>
+
 </html>

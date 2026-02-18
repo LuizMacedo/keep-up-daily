@@ -169,6 +169,7 @@ AI_CONFIG = {
     "endpoint": "https://models.inference.ai.azure.com/chat/completions",
     "model": "gpt-4o-mini",
     "temperature": 0.4,
-    "target_entries": 12,       # digest entries to produce
-    "request_timeout": 120,     # seconds – digest generation needs time
+    "max_entries": 30,          # upper ceiling – AI decides actual count
+    "fallback_per_cat": 4,     # top articles per category for fallback
+    "request_timeout": 180,     # seconds – richer digest needs more time
 }
