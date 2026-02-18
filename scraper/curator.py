@@ -54,9 +54,8 @@ def _get_token() -> str:
     """Return the GH_MODELS_TOKEN if set, otherwise empty string."""
     val = os.environ.get(_TOKEN_VAR, "").strip()
     if val:
-        masked = val[:4] + "****" + val[-4:] if len(val) > 8 else "****"
-        print(f"[AI] ✓ Found ${_TOKEN_VAR} ({masked})")
-        logger.info("Using token from $%s", _TOKEN_VAR)
+        print(f"[AI] ✓ Found ${_TOKEN_VAR} ({len(val)} chars)")
+        logger.info("Using token from $%s (%d chars)", _TOKEN_VAR, len(val))
         return val
     print(f"[AI] ✗ ${_TOKEN_VAR} not set or empty — AI digest disabled")
     logger.warning("$%s not set or empty", _TOKEN_VAR)
