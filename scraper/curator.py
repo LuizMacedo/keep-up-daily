@@ -191,13 +191,13 @@ def _call_ai(
     prompt = f"""You have {len(condensed)} articles to curate. Categories: {cat_summary}
 Keys: id=index, t=title, s=source(dt=devto,hn=hackernews,gh=github,rd=reddit,lb=lobsters,hs=hashnode), cat=category, d=desc, sc=score, tg=tags
 
-OUTPUT REQUIREMENT: Generate a JSON array with EXACTLY 12 entries. Not 8, not 9, not 11 — exactly 12. Each entry covers a different topic or merges related articles.
+Write 10 to 12 digest entries. Each covers a distinct topic; merge related articles when relevant.
 
 Per entry: 80-110 words per language. Structure: hook → technical detail → takeaway.
 Formatting: **bold** key terms, `code` for names. Cover at least 5 different categories.
 Languages: English AND Brazilian Portuguese (natural tone, not literal translation).
 
-JSON format (array of 12 objects):
+JSON format:
 [{{"title_en":"...","title_pt":"...","body_en":"80-110 words...","body_pt":"80-110 words...","category":"ai|web|devops|languages|frameworks|security|career|general","source_ids":[0,3]}}]
 
 Articles:
@@ -219,8 +219,8 @@ Articles:
                     {
                         "role": "system",
                         "content": (
-                            "You are a tech newsletter writer. You always produce "
-                            "exactly 12 digest entries in JSON format. Each entry "
+                            "You are a tech newsletter writer. You produce "
+                            "10-12 digest entries in JSON format. Each entry "
                             "has 80-110 words per language (English + Brazilian "
                             "Portuguese). Respond with ONLY the JSON array."
                         ),
