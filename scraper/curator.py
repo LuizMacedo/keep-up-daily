@@ -188,15 +188,19 @@ def _call_ai(
         cat_counts[a.category] += 1
     cat_summary = ", ".join(f"{c}: {n}" for c, n in sorted(cat_counts.items()))
 
-    prompt = f"""{len(condensed)} articles today. Categories: {cat_summary}
-Keys: id, t=title, s=source(dt=devto,hn=hackernews,gh=github,rd=reddit,lb=lobsters,hs=hashnode), cat=category, d=desc, sc=score, tg=tags
+    prompt = f"""IMPORTANT: You MUST produce EXACTLY 10 to 12 entries. Never fewer than 10.
 
-Write exactly 10-12 digest entries. Merge related articles. Each: self-contained mini-article (100-140 words/language).
-Structure: hook → technical depth (specifics, trade-offs) → practical angle → takeaway.
+{len(condensed)} articles. Categories: {cat_summary}
+Keys: id=index, t=title, s=source(dt=devto,hn=hackernews,gh=github,rd=reddit,lb=lobsters,hs=hashnode), cat=category, d=desc, sc=score, tg=tags
 
-Rules: **bold** key terms, `code` for names, 4+ categories, English AND Brazilian Portuguese (natural, not translated).
+Instructions:
+- Write 10-12 digest entries (MINIMUM 10). Merge related articles when relevant.
+- Each entry: 80-120 words per language (EN + PT-BR). Keep entries concise.
+- Structure: hook → key technical detail → practical takeaway.
+- Use **bold** for key terms, `code` for names. Cover 4+ categories.
+- English AND Brazilian Portuguese (natural, not translated).
 
-Return JSON array ONLY:
+Return ONLY a JSON array:
 [{{"title_en":"...","title_pt":"...","body_en":"...","body_pt":"...","category":"ai|web|devops|languages|frameworks|security|career|general","source_ids":[0,3]}}]
 
 Articles:
@@ -218,10 +222,10 @@ Articles:
                     {
                         "role": "system",
                         "content": (
-                            "You are a senior tech journalist writing a developer "
-                            "newsletter. Each entry is a self-contained mini-article "
-                            "with technical depth. Write English and Brazilian "
-                            "Portuguese. Respond ONLY with valid JSON."
+                            "You are a senior tech journalist writing a concise developer "
+                            "newsletter. You ALWAYS produce 10-12 entries — never fewer. "
+                            "Each entry is 80-120 words per language. Write English and "
+                            "Brazilian Portuguese. Respond ONLY with valid JSON."
                         ),
                     },
                     {"role": "user", "content": prompt},
