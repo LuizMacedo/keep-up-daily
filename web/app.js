@@ -18,6 +18,10 @@ const I18N = {
         frameworks: "Frameworks",
         security: "Security",
         career: "Career",
+        mobile: "Mobile",
+        data: "Data & DBs",
+        opensource: "Open Source",
+        tools: "Tools",
         general: "General",
         stories: "stories",
         curatedFrom: "curated from",
@@ -46,6 +50,10 @@ const I18N = {
         frameworks: "Frameworks",
         security: "Segurança",
         career: "Carreira",
+        mobile: "Mobile",
+        data: "Dados & BDs",
+        opensource: "Open Source",
+        tools: "Ferramentas",
         general: "Geral",
         stories: "histórias",
         curatedFrom: "curadas de",
@@ -77,7 +85,8 @@ const SOURCE_META = {
 
 const CATEGORIES = [
     "all", "ai", "web", "devops", "languages",
-    "frameworks", "security", "career", "general",
+    "frameworks", "security", "career", "mobile",
+    "data", "opensource", "tools", "general",
 ];
 
 // ──────────────────────────────────────────────

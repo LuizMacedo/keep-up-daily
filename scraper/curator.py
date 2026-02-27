@@ -41,15 +41,19 @@ CATEGORY_EMOJI = {
     "frameworks": "🧩",
     "security": "🔒",
     "career": "🚀",
+    "mobile": "📱",
+    "data": "🗄️",
+    "opensource": "💚",
+    "tools": "🛠️",
     "general": "📌",
 }
 
 # GitHub Models free-tier limits: ~8 000 input tokens for gpt-4o-mini.
 # We keep a safe margin and progressively reduce if we hit 413.
-_MAX_AI_ARTICLES = 30          # first attempt
-_MAX_AI_ARTICLES_RETRY = 15    # retry with fewer articles
+_MAX_AI_ARTICLES = 40          # first attempt
+_MAX_AI_ARTICLES_RETRY = 20    # retry with fewer articles
 _DESC_MAX_CHARS = 80           # trim descriptions to save tokens
-_MAX_OUTPUT_TOKENS = 6144      # 12 entries × ~400 tokens each + JSON overhead
+_MAX_OUTPUT_TOKENS = 8000      # 15 entries × ~400 tokens each + JSON overhead
 
 # Abbreviated source names — saves ~100 input tokens across 30 articles
 _SRC_SHORT = {
@@ -191,14 +195,14 @@ def _call_ai(
     prompt = f"""You have {len(condensed)} articles to curate. Categories: {cat_summary}
 Keys: id=index, t=title, s=source(dt=devto,hn=hackernews,gh=github,rd=reddit,lb=lobsters,hs=hashnode), cat=category, d=desc, sc=score, tg=tags
 
-Write 10 to 12 digest entries. Each covers a distinct topic; merge related articles when relevant.
+Write 13 to 15 digest entries. Each covers a distinct topic; merge related articles when relevant.
 
 Per entry: 80-110 words per language. Structure: hook → technical detail → takeaway.
-Formatting: **bold** key terms, `code` for names. Cover at least 5 different categories.
+Formatting: **bold** key terms, `code` for names. Cover as many different categories as possible.
 Languages: English AND Brazilian Portuguese (natural tone, not literal translation).
 
 JSON format:
-[{{"title_en":"...","title_pt":"...","body_en":"80-110 words...","body_pt":"80-110 words...","category":"ai|web|devops|languages|frameworks|security|career|general","source_ids":[0,3]}}]
+[{{"title_en":"...","title_pt":"...","body_en":"80-110 words...","body_pt":"80-110 words...","category":"ai|web|devops|languages|frameworks|security|career|mobile|data|opensource|tools|general","source_ids":[0,3]}}]
 
 Articles:
 {json.dumps(condensed, ensure_ascii=False)}"""
@@ -220,7 +224,7 @@ Articles:
                         "role": "system",
                         "content": (
                             "You are a tech newsletter writer. You produce "
-                            "10-12 digest entries in JSON format. Each entry "
+                            "13-15 digest entries in JSON format. Each entry "
                             "has 80-110 words per language (English + Brazilian "
                             "Portuguese). Respond with ONLY the JSON array."
                         ),
@@ -328,12 +332,17 @@ _CAT_LABELS = {
     "frameworks": ("Frameworks & Tools", "Frameworks & Ferramentas"),
     "security": ("Security", "Segurança"),
     "career": ("Career & Community", "Carreira & Comunidade"),
+    "mobile": ("Mobile Development", "Desenvolvimento Mobile"),
+    "data": ("Data & Databases", "Dados & Bancos de Dados"),
+    "opensource": ("Open Source", "Open Source"),
+    "tools": ("Tools & Productivity", "Ferramentas & Produtividade"),
     "general": ("General Tech", "Tecnologia em Geral"),
 }
 
 _CAT_ORDER = (
     "ai", "web", "devops", "languages", "frameworks",
-    "security", "career", "general",
+    "security", "career", "mobile", "data", "opensource",
+    "tools", "general",
 )
 
 
