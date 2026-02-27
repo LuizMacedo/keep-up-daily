@@ -1,0 +1,3077 @@
+{
+  "date": "2026-02-27",
+  "generated_at": "2026-02-27T05:37:00.084406+00:00",
+  "digest": [
+    {
+      "title_en": "GitNexus: The Zero-Server Code Intelligence Engine",
+      "title_pt": "GitNexus: O Motor de Inteligência de Código Sem Servidor",
+      "body_en": "Discover **GitNexus**, a revolutionary client-side tool that transforms how developers interact with code. This **zero-server** code intelligence engine leverages advanced algorithms to provide insights directly in your development environment, enhancing productivity. With its **TypeScript** foundation, GitNexus seamlessly integrates into existing workflows, making it a must-have for modern developers. The takeaway? Embrace tools that minimize server dependencies while maximizing efficiency and code understanding.",
+      "body_pt": "Descubra o **GitNexus**, uma ferramenta revolucionária do lado do cliente que transforma a maneira como os desenvolvedores interagem com o código. Este motor de inteligência de código **sem servidor** aproveita algoritmos avançados para fornecer insights diretamente em seu ambiente de desenvolvimento, aumentando a produtividade. Com sua base em **TypeScript**, o GitNexus se integra perfeitamente aos fluxos de trabalho existentes, tornando-se indispensável para os desenvolvedores modernos. A lição? Adote ferramentas que minimizam as dependências de servidor enquanto maximizam a eficiência e a compreensão do código.",
+      "category": "ai",
+      "emoji": "🤖",
+      "sources": [
+        {
+          "title": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Delivery Infrastructure for Agentic Apps",
+      "title_pt": "Infraestrutura de Entrega para Aplicativos Agentes",
+      "body_en": "Introducing **Plano**, an innovative delivery infrastructure designed for **agentic applications**. Built with **Rust**, this AI-native proxy and data management tool streamlines the deployment process, ensuring that your applications run smoothly and efficiently. With its focus on agentic capabilities, Plano empowers developers to create responsive and intelligent applications. The key takeaway? Leverage modern infrastructure tools to enhance application performance and reduce deployment friction.",
+      "body_pt": "Apresentando o **Plano**, uma infraestrutura de entrega inovadora projetada para **aplicativos agentes**. Construído com **Rust**, esta ferramenta nativa de proxy e gerenciamento de dados para IA simplifica o processo de implantação, garantindo que suas aplicações funcionem de maneira suave e eficiente. Com seu foco em capacidades agentes, o Plano capacita os desenvolvedores a criar aplicações responsivas e inteligentes. A lição principal? Aproveite ferramentas de infraestrutura modernas para melhorar o desempenho da aplicação e reduzir a fricção na implantação.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "katanemo/plano",
+          "url": "https://github.com/katanemo/plano",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "An Open Letter to Google on Android Developer Registration",
+      "title_pt": "Uma Carta Aberta ao Google sobre Registro de Desenvolvedores Android",
+      "body_en": "In a recent open letter, developers express concerns over Google's **mandatory developer registration** for Android. This policy raises questions about **privacy** and accessibility, as it could potentially limit participation in the Android ecosystem. Developers argue that such requirements might stifle innovation and discourage new entrants. The takeaway? Balancing security measures with developer freedom is crucial for fostering a vibrant app development community.",
+      "body_pt": "Em uma carta aberta recente, os desenvolvedores expressam preocupações sobre o **registro obrigatório de desenvolvedores** do Google para Android. Essa política levanta questões sobre **privacidade** e acessibilidade, pois pode limitar a participação no ecossistema Android. Os desenvolvedores argumentam que tais requisitos podem sufocar a inovação e desencorajar novos participantes. A lição? Equilibrar medidas de segurança com a liberdade do desenvolvedor é crucial para fomentar uma comunidade vibrante de desenvolvimento de aplicativos.",
+      "category": "mobile",
+      "emoji": "📱",
+      "sources": [
+        {
+          "title": "An Open Letter to Google regarding Mandatory Developer Registration for Android",
+          "url": "https://keepandroidopen.org/open-letter/",
+          "source": "lobsters"
+        }
+      ]
+    },
+    {
+      "title_en": "An Open Source Payments Switch in Rust",
+      "title_pt": "Um Switch de Pagamentos Open Source em Rust",
+      "body_en": "Meet **Hyperswitch**, an open-source payments switch built with **Rust**. This project aims to make online transactions faster and more reliable while ensuring security and ease of integration. By leveraging the power of Rust, Hyperswitch provides a solid foundation for developers looking to implement payment solutions without the overhead of proprietary systems. The takeaway? Open-source solutions can drive innovation in the payments landscape, providing flexibility and security.",
+      "body_pt": "Conheça o **Hyperswitch**, um switch de pagamentos open source construído com **Rust**. Este projeto visa tornar as transações online mais rápidas e confiáveis, garantindo segurança e facilidade de integração. Ao aproveitar o poder do Rust, o Hyperswitch oferece uma base sólida para desenvolvedores que buscam implementar soluções de pagamento sem a sobrecarga de sistemas proprietários. A lição? Soluções open source podem impulsionar a inovação no cenário de pagamentos, proporcionando flexibilidade e segurança.",
+      "category": "opensource",
+      "emoji": "💚",
+      "sources": [
+        {
+          "title": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Real-Time Hiring Signal API",
+      "title_pt": "API de Sinal de Contratação em Tempo Real",
+      "body_en": "Learn about a developer's journey in creating a **real-time hiring signal API**. This project highlights the importance of understanding user needs and iterating based on feedback. By focusing on **web development** and API integration, the developer shares valuable lessons learned throughout the process. The key takeaway? Building successful applications requires continuous learning and adaptation to meet user expectations.",
+      "body_pt": "Saiba mais sobre a jornada de um desenvolvedor na criação de uma **API de sinal de contratação em tempo real**. Este projeto destaca a importância de entender as necessidades dos usuários e iterar com base no feedback. Ao focar em **desenvolvimento web** e integração de APIs, o desenvolvedor compartilha lições valiosas aprendidas ao longo do processo. A lição principal? Construir aplicações de sucesso requer aprendizado contínuo e adaptação para atender às expectativas dos usuários.",
+      "category": "career",
+      "emoji": "🚀",
+      "sources": [
+        {
+          "title": "How I built a real-time hiring signal API and what I learned",
+          "url": "https://dev.to/nopp/how-i-built-a-real-time-hiring-signal-api-and-what-i-learned-1j5m",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "Agent Skills for Context Engineering",
+      "title_pt": "Habilidades de Agente para Engenharia de Contexto",
+      "body_en": "Explore **Agent Skills for Context Engineering**, a comprehensive collection designed to enhance multi-agent systems. This project focuses on developing skills that improve context awareness and interaction among agents, making them more effective in real-world applications. With a strong emphasis on **Python**, the framework allows developers to create intelligent agents that can adapt to various scenarios. The takeaway? Investing in agent skills can significantly improve the performance and usability of AI systems.",
+      "body_pt": "Explore **Habilidades de Agente para Engenharia de Contexto**, uma coleção abrangente projetada para aprimorar sistemas multiagentes. Este projeto foca no desenvolvimento de habilidades que melhoram a consciência de contexto e a interação entre agentes, tornando-os mais eficazes em aplicações do mundo real. Com uma forte ênfase em **Python**, o framework permite que os desenvolvedores criem agentes inteligentes que podem se adaptar a vários cenários. A lição? Investir em habilidades de agentes pode melhorar significativamente o desempenho e a usabilidade dos sistemas de IA.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "A Lightweight Text Editor for Developers",
+      "title_pt": "Um Editor de Texto Leve para Desenvolvedores",
+      "body_en": "Introducing **Ferrite**, a fast and lightweight text editor tailored for developers. It supports multiple formats, including **Markdown**, **JSON**, **YAML**, and **TOML**, making it an ideal choice for anyone working with configuration files or documentation. Built with **Rust**, Ferrite emphasizes speed and efficiency, ensuring a smooth user experience. The takeaway? A specialized text editor can significantly enhance your productivity and streamline your workflow.",
+      "body_pt": "Apresentando **Ferrite**, um editor de texto rápido e leve feito sob medida para desenvolvedores. Ele suporta vários formatos, incluindo **Markdown**, **JSON**, **YAML** e **TOML**, tornando-se uma escolha ideal para quem trabalha com arquivos de configuração ou documentação. Construído com **Rust**, o Ferrite enfatiza velocidade e eficiência, garantindo uma experiência do usuário suave. A lição? Um editor de texto especializado pode aumentar significativamente sua produtividade e agilizar seu fluxo de trabalho.",
+      "category": "data",
+      "emoji": "🗄️",
+      "sources": [
+        {
+          "title": "OlaProeis/Ferrite",
+          "url": "https://github.com/OlaProeis/Ferrite",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "How the VM Executes a Program in SQLite",
+      "title_pt": "Como a VM Executa um Programa no SQLite",
+      "body_en": "Delve into the inner workings of **SQLite** with an article explaining how the virtual machine (VM) executes programs. Understanding this process can help developers optimize their database interactions and improve application performance. The article emphasizes the importance of efficient querying and resource management within SQLite. The takeaway? A solid grasp of database internals can lead to better application design and performance.",
+      "body_pt": "Mergulhe nos meandros do **SQLite** com um artigo que explica como a máquina virtual (VM) executa programas. Compreender esse processo pode ajudar os desenvolvedores a otimizar suas interações com o banco de dados e melhorar o desempenho da aplicação. O artigo enfatiza a importância de consultas eficientes e gerenciamento de recursos dentro do SQLite. A lição? Um entendimento sólido dos internos do banco de dados pode levar a um melhor design e desempenho da aplicação.",
+      "category": "frameworks",
+      "emoji": "🧩",
+      "sources": [
+        {
+          "title": "How the VM Actually Executes a Program in SQLite",
+          "url": "https://dev.to/lovestaco/how-the-vm-actually-executes-a-program-in-sqlite-28pj",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "The Agent Skills Gold Rush Has a Malware Problem",
+      "title_pt": "A Corrida do Ouro das Habilidades de Agente Tem um Problema de Malware",
+      "body_en": "The rise of agent skills has brought about a surge in malware targeting these systems. As developers rush to create new skills, security vulnerabilities are becoming more apparent. This article discusses the implications of this trend and the need for robust security measures in the development of agent-based applications. The takeaway? Prioritizing security in the development process is essential to protect users and maintain trust in AI systems.",
+      "body_pt": "A ascensão das habilidades de agente trouxe um aumento no malware direcionado a esses sistemas. À medida que os desenvolvedores correm para criar novas habilidades, as vulnerabilidades de segurança estão se tornando mais evidentes. Este artigo discute as implicações dessa tendência e a necessidade de medidas de segurança robustas no desenvolvimento de aplicações baseadas em agentes. A lição? Priorizar a segurança no processo de desenvolvimento é essencial para proteger os usuários e manter a confiança nos sistemas de IA.",
+      "category": "security",
+      "emoji": "🔒",
+      "sources": [
+        {
+          "title": "The Agent Skills Gold Rush Has a Malware Problem",
+          "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "A New Open Source Endowment Fund for OSS",
+      "title_pt": "Um Novo Fundo de Endowment Open Source para OSS",
+      "body_en": "The launch of the world's first **endowment fund for open-source software (OSS)** aims to provide sustainable financial support for ongoing projects. This initiative seeks to ensure the longevity and health of OSS communities, allowing developers to focus on innovation without financial constraints. The takeaway? Supporting OSS through financial means can foster a thriving ecosystem for future development.",
+      "body_pt": "O lançamento do primeiro **fundo de endowment para software open source (OSS)** do mundo visa fornecer suporte financeiro sustentável para projetos em andamento. Esta iniciativa busca garantir a longevidade e a saúde das comunidades OSS, permitindo que os desenvolvedores se concentrem na inovação sem restrições financeiras. A lição? Apoiar o OSS por meio de meios financeiros pode fomentar um ecossistema próspero para o desenvolvimento futuro.",
+      "category": "opensource",
+      "emoji": "💚",
+      "sources": [
+        {
+          "title": "Open Source Endowment — World's First Endowment Fund for OSS",
+          "url": "https://endowment.dev/",
+          "source": "lobsters"
+        }
+      ]
+    },
+    {
+      "title_en": "Demystifying Client Isolation in Wi-Fi Networks",
+      "title_pt": "Desmistificando a Isolação de Clientes em Redes Wi-Fi",
+      "body_en": "Explore the intricacies of **client isolation** in Wi-Fi networks with insights from the **AirSnitch** project. This article sheds light on how isolation can both protect and hinder user experience in shared networks. Understanding these dynamics is crucial for network administrators aiming to balance security and accessibility. The takeaway? Effective network management requires a nuanced understanding of user interactions and security protocols.",
+      "body_pt": "Explore as complexidades da **isolação de clientes** em redes Wi-Fi com insights do projeto **AirSnitch**. Este artigo esclarece como a isolação pode proteger e prejudicar a experiência do usuário em redes compartilhadas. Compreender essas dinâmicas é crucial para administradores de rede que buscam equilibrar segurança e acessibilidade. A lição? A gestão eficaz da rede requer uma compreensão sutil das interações dos usuários e dos protocolos de segurança.",
+      "category": "security",
+      "emoji": "🔒",
+      "sources": [
+        {
+          "title": "AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks",
+          "url": "https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/",
+          "source": "lobsters"
+        }
+      ]
+    }
+  ],
+  "digest_count": 11,
+  "raw_article_count": 169,
+  "sources": [
+    "devto",
+    "github_trending",
+    "hackernews",
+    "lobsters"
+  ],
+  "articles": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "github_trending",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 4114,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.742113+00:00",
+      "language": "en"
+    },
+    {
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "source": "github_trending",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 2902,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.274511+00:00",
+      "language": "en"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github_trending",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "",
+      "tags": [
+        "shell"
+      ],
+      "category": "frameworks",
+      "score": 1532,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.272250+00:00",
+      "language": "en"
+    },
+    {
+      "title": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "source": "github_trending",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "ai",
+      "score": 1350,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.743495+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "source": "hackernews",
+      "description": "",
+      "author": "qwertox",
+      "tags": [],
+      "category": "general",
+      "score": 1342,
+      "comments_count": 729,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:02.044355+00:00",
+      "language": "en"
+    },
+    {
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "source": "github_trending",
+      "description": "Public repository for Agent Skills",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 1208,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.496240+00:00",
+      "language": "en"
+    },
+    {
+      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "source": "github_trending",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 922,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.272750+00:00",
+      "language": "en"
+    },
+    {
+      "title": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "source": "github_trending",
+      "description": "",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 715,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.273596+00:00",
+      "language": "en"
+    },
+    {
+      "title": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "source": "github_trending",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "ai",
+      "score": 705,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.678154+00:00",
+      "language": "en"
+    },
+    {
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "github_trending",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 617,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.273167+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Layoffs at Block",
+      "url": "https://twitter.com/jack/status/2027129697092731343",
+      "source": "hackernews",
+      "description": "",
+      "author": "mlex",
+      "tags": [],
+      "category": "general",
+      "score": 602,
+      "comments_count": 626,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:02.497586+00:00",
+      "language": "en"
+    },
+    {
+      "title": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "source": "github_trending",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "ai",
+      "score": 589,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.741181+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "source": "hackernews",
+      "description": "",
+      "author": "davidbarker",
+      "tags": [],
+      "category": "general",
+      "score": 526,
+      "comments_count": 496,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:05.189105+00:00",
+      "language": "en"
+    },
+    {
+      "title": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "source": "github_trending",
+      "description": "Development at the speed of light",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 441,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.271662+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ruvnet/ruvector",
+      "url": "https://github.com/ruvnet/ruvector",
+      "source": "github_trending",
+      "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "ai",
+      "score": 436,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.275299+00:00",
+      "language": "en"
+    },
+    {
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "source": "github_trending",
+      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "ai",
+      "score": 418,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.274009+00:00",
+      "language": "en"
+    },
+    {
+      "title": "liyupi/ai-guide",
+      "url": "https://github.com/liyupi/ai-guide",
+      "source": "github_trending",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "ai",
+      "score": 417,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.677710+00:00",
+      "language": "en"
+    },
+    {
+      "title": "code-yeongyu/oh-my-opencode",
+      "url": "https://github.com/code-yeongyu/oh-my-opencode",
+      "source": "github_trending",
+      "description": "the best agent harness",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 409,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.742599+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Will vibe coding end like the maker movement?",
+      "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+      "source": "hackernews",
+      "description": "",
+      "author": "itunpredictable",
+      "tags": [],
+      "category": "general",
+      "score": 353,
+      "comments_count": 348,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:02.609694+00:00",
+      "language": "en"
+    },
+    {
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "source": "hackernews",
+      "description": "",
+      "author": "DamnInteresting",
+      "tags": [],
+      "category": "general",
+      "score": 334,
+      "comments_count": 161,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:02.720946+00:00",
+      "language": "en"
+    },
+    {
+      "title": "What Claude Code Chooses",
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "source": "hackernews",
+      "description": "",
+      "author": "tin7in",
+      "tags": [],
+      "category": "ai",
+      "score": 321,
+      "comments_count": 131,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:02.383619+00:00",
+      "language": "en"
+    },
+    {
+      "title": "siteboon/claudecodeui",
+      "url": "https://github.com/siteboon/claudecodeui",
+      "source": "github_trending",
+      "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "tools",
+      "score": 314,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.744756+00:00",
+      "language": "en"
+    },
+    {
+      "title": "katanemo/plano",
+      "url": "https://github.com/katanemo/plano",
+      "source": "github_trending",
+      "description": "Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "devops",
+      "score": 284,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.964519+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I baked a pie every day for a year and it changed my life",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+      "source": "hackernews",
+      "description": "",
+      "author": "NaOH",
+      "tags": [],
+      "category": "general",
+      "score": 251,
+      "comments_count": 163,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:03.923224+00:00",
+      "language": "en"
+    },
+    {
+      "title": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "source": "github_trending",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "author": "",
+      "tags": [
+        "c"
+      ],
+      "category": "general",
+      "score": 245,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.275686+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "source": "github_trending",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "ai",
+      "score": 215,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:06.274914+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Smartphone market forecast to decline this year due to memory shortage",
+      "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
+      "source": "hackernews",
+      "description": "",
+      "author": "littlexsparkee",
+      "tags": [],
+      "category": "general",
+      "score": 199,
+      "comments_count": 194,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:03.402235+00:00",
+      "language": "en"
+    },
+    {
+      "title": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "source": "github_trending",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "ai",
+      "score": 193,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.968078+00:00",
+      "language": "en"
+    },
+    {
+      "title": "What does \" 2>&1 \" mean?",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "source": "hackernews",
+      "description": "",
+      "author": "alexmolas",
+      "tags": [],
+      "category": "general",
+      "score": 191,
+      "comments_count": 113,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:02.950268+00:00",
+      "language": "en"
+    },
+    {
+      "title": "lbjlaq/Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "source": "github_trending",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "web",
+      "score": 179,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.969816+00:00",
+      "language": "en"
+    },
+    {
+      "title": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "source": "github_trending",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 178,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.965059+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+      "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+      "source": "hackernews",
+      "description": "",
+      "author": "spiffytech",
+      "tags": [],
+      "category": "general",
+      "score": 175,
+      "comments_count": 82,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:04.152267+00:00",
+      "language": "en"
+    },
+    {
+      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "source": "hackernews",
+      "description": "",
+      "author": "jasonpeacock",
+      "tags": [],
+      "category": "devops",
+      "score": 163,
+      "comments_count": 55,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:04.500665+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
+      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "mikece",
+      "tags": [],
+      "category": "ai",
+      "score": 162,
+      "comments_count": 64,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:02.268482+00:00",
+      "language": "en"
+    },
+    {
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "source": "github_trending",
+      "description": "Stable Diffusion web UI",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 156,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.499269+00:00",
+      "language": "en"
+    },
+    {
+      "title": "NVIDIA/Megatron-LM",
+      "url": "https://github.com/NVIDIA/Megatron-LM",
+      "source": "github_trending",
+      "description": "Ongoing research training transformer models at scale",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 150,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.499651+00:00",
+      "language": "en"
+    },
+    {
+      "title": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "source": "github_trending",
+      "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 150,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.680629+00:00",
+      "language": "en"
+    },
+    {
+      "title": "This time is different",
+      "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
+      "source": "hackernews",
+      "description": "",
+      "author": "speckx",
+      "tags": [],
+      "category": "general",
+      "score": 141,
+      "comments_count": 223,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:05.303100+00:00",
+      "language": "en"
+    },
+    {
+      "title": "An Open Letter to Google regarding Mandatory Developer Registration for Android",
+      "url": "https://keepandroidopen.org/open-letter/",
+      "source": "lobsters",
+      "description": "",
+      "author": "aoeu",
+      "tags": [
+        "android",
+        "law",
+        "privacy"
+      ],
+      "category": "mobile",
+      "score": 136,
+      "comments_count": 25,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226378+00:00",
+      "language": "en"
+    },
+    {
+      "title": "OsmAnd's Faster Offline Navigation (2025)",
+      "url": "https://osmand.net/blog/fast-routing/",
+      "source": "hackernews",
+      "description": "",
+      "author": "todsacerdoti",
+      "tags": [],
+      "category": "general",
+      "score": 135,
+      "comments_count": 37,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:04.040100+00:00",
+      "language": "en"
+    },
+    {
+      "title": "DayuanJiang/next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "source": "github_trending",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 130,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.745262+00:00",
+      "language": "en"
+    },
+    {
+      "title": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "source": "github_trending",
+      "description": "An autonomous agent for deep financial research",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 122,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.741600+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "github_trending",
+      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 121,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.333172+00:00",
+      "language": "en"
+    },
+    {
+      "title": "xpzouying/xiaohongshu-mcp",
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "source": "github_trending",
+      "description": "MCP for xiaohongshu.com",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "general",
+      "score": 117,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.329186+00:00",
+      "language": "en"
+    },
+    {
+      "title": "New accounts on HN 10x more likely to use EM-dashes",
+      "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
+      "source": "lobsters",
+      "description": "",
+      "author": "mccd",
+      "tags": [
+        "vibecoding"
+      ],
+      "category": "general",
+      "score": 116,
+      "comments_count": 121,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226448+00:00",
+      "language": "en"
+    },
+    {
+      "title": "vercel-labs/agent-skills",
+      "url": "https://github.com/vercel-labs/agent-skills",
+      "source": "github_trending",
+      "description": "Vercel's official collection of agent skills",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 113,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.681413+00:00",
+      "language": "en"
+    },
+    {
+      "title": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "source": "github_trending",
+      "description": "All Algorithms implemented in Python",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 107,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.497071+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
+      "url": "https://hackersmacker.org",
+      "source": "hackernews",
+      "description": "",
+      "author": "conesus",
+      "tags": [],
+      "category": "general",
+      "score": 104,
+      "comments_count": 110,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:04.729378+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "url": "https://www.usecardboard.com/",
+      "source": "hackernews",
+      "description": "",
+      "author": "sxmawl",
+      "tags": [],
+      "category": "tools",
+      "score": 103,
+      "comments_count": 52,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:03.289646+00:00",
+      "language": "en"
+    },
+    {
+      "title": "tiann/hapi",
+      "url": "https://github.com/tiann/hapi",
+      "source": "github_trending",
+      "description": "App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "ai",
+      "score": 96,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.745743+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "source": "github_trending",
+      "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 93,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.326732+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Museum of Plugs and Sockets",
+      "url": "https://plugsocketmuseum.nl/index.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "ohjeez",
+      "tags": [],
+      "category": "general",
+      "score": 92,
+      "comments_count": 34,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:04.388136+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
+      "url": "https://github.com/flamestro/deff",
+      "source": "hackernews",
+      "description": "",
+      "author": "flamestro",
+      "tags": [],
+      "category": "tools",
+      "score": 91,
+      "comments_count": 52,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:04.957795+00:00",
+      "language": "en"
+    },
+    {
+      "title": "block/goose",
+      "url": "https://github.com/block/goose",
+      "source": "github_trending",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "ai",
+      "score": 91,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.965459+00:00",
+      "language": "en"
+    },
+    {
+      "title": "musistudio/claude-code-router",
+      "url": "https://github.com/musistudio/claude-code-router",
+      "source": "github_trending",
+      "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "ai",
+      "score": 88,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.742998+00:00",
+      "language": "en"
+    },
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "source": "github_trending",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 87,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.498364+00:00",
+      "language": "en"
+    },
+    {
+      "title": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "source": "github_trending",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "opensource",
+      "score": 82,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.968469+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
+      "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+      "source": "hackernews",
+      "description": "",
+      "author": "moultano",
+      "tags": [],
+      "category": "general",
+      "score": 77,
+      "comments_count": 30,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:02.156755+00:00",
+      "language": "en"
+    },
+    {
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github_trending",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "devops",
+      "score": 76,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.495444+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Git in Postgres",
+      "url": "https://nesbitt.io/2026/02/26/git-in-postgres.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "abhin4v",
+      "tags": [
+        "databases",
+        "vcs"
+      ],
+      "category": "data",
+      "score": 71,
+      "comments_count": 18,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226407+00:00",
+      "language": "en"
+    },
+    {
+      "title": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "source": "github_trending",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "opensource",
+      "score": 70,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.965971+00:00",
+      "language": "en"
+    },
+    {
+      "title": "GVCLab/PersonaLive",
+      "url": "https://github.com/GVCLab/PersonaLive",
+      "source": "github_trending",
+      "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 67,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.494566+00:00",
+      "language": "en"
+    },
+    {
+      "title": "A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives",
+      "url": "https://bookriot.com/hr7661-book-ban-legislation/",
+      "source": "hackernews",
+      "description": "",
+      "author": "LostMyLogin",
+      "tags": [],
+      "category": "general",
+      "score": 62,
+      "comments_count": 24,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:03.809254+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Against Query Based Compilers",
+      "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "LesleyLai",
+      "tags": [
+        "compilers"
+      ],
+      "category": "languages",
+      "score": 62,
+      "comments_count": 29,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226428+00:00",
+      "language": "en"
+    },
+    {
+      "title": "zhayujie/chatgpt-on-wechat",
+      "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+      "source": "github_trending",
+      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 59,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.497933+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+      "url": "https://www.playlinex.com/",
+      "source": "hackernews",
+      "description": "",
+      "author": "Humanista75",
+      "tags": [],
+      "category": "general",
+      "score": 57,
+      "comments_count": 19,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:05.075540+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Wei-Shaw/claude-relay-service",
+      "url": "https://github.com/Wei-Shaw/claude-relay-service",
+      "source": "github_trending",
+      "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "ai",
+      "score": 56,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.678552+00:00",
+      "language": "en"
+    },
+    {
+      "title": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "source": "github_trending",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 55,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.679735+00:00",
+      "language": "en"
+    },
+    {
+      "title": "qeeqbox/social-analyzer",
+      "url": "https://github.com/qeeqbox/social-analyzer",
+      "source": "github_trending",
+      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "tools",
+      "score": 52,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.680239+00:00",
+      "language": "en"
+    },
+    {
+      "title": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "source": "github_trending",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "tools",
+      "score": 51,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.500051+00:00",
+      "language": "en"
+    },
+    {
+      "title": "What interesting (and smaller) conferences are there in 2026?",
+      "url": "https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences",
+      "source": "lobsters",
+      "description": "<p>It'd be nice to hear about interesting ones around the world. Particularly smaller ones e.g. for APL or Gleam.</p>\n",
+      "author": "veqq",
+      "tags": [
+        "ask",
+        "event"
+      ],
+      "category": "career",
+      "score": 50,
+      "comments_count": 33,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226457+00:00",
+      "language": "en"
+    },
+    {
+      "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
+      "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "vinhnx",
+      "tags": [],
+      "category": "general",
+      "score": 48,
+      "comments_count": 11,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:03.517918+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
+      "url": "https://coderush.me/hydroph0bia-part3/",
+      "source": "hackernews",
+      "description": "",
+      "author": "transpute",
+      "tags": [],
+      "category": "general",
+      "score": 46,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:03.697810+00:00",
+      "language": "en"
+    },
+    {
+      "title": "snakes.run: rendering 100M pixels a second over ssh",
+      "url": "https://eieio.games/blog/secure-massively-multiplayer-snake/",
+      "source": "lobsters",
+      "description": "",
+      "author": "eaj",
+      "tags": [
+        "games",
+        "go"
+      ],
+      "category": "general",
+      "score": 46,
+      "comments_count": 5,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226410+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Understanding the Go Runtime: The Memory Allocator",
+      "url": "https://internals-for-interns.com/posts/go-memory-allocator/",
+      "source": "hackernews",
+      "description": "",
+      "author": "valyala",
+      "tags": [],
+      "category": "general",
+      "score": 45,
+      "comments_count": 7,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:04.617119+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Making WebAssembly a first-class language on the Web",
+      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+      "source": "lobsters",
+      "description": "",
+      "author": "bvisness",
+      "tags": [
+        "wasm",
+        "web"
+      ],
+      "category": "web",
+      "score": 45,
+      "comments_count": 15,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226397+00:00",
+      "language": "en"
+    },
+    {
+      "title": "9001/copyparty",
+      "url": "https://github.com/9001/copyparty",
+      "source": "github_trending",
+      "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 42,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.498883+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Long Range E-Bike (2021)",
+      "url": "https://jacquesmattheij.com/long-range-ebike/",
+      "source": "lobsters",
+      "description": "",
+      "author": "wofo",
+      "tags": [
+        "hardware"
+      ],
+      "category": "general",
+      "score": 38,
+      "comments_count": 12,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226475+00:00",
+      "language": "en"
+    },
+    {
+      "title": "lintsinghua/DeepAudit",
+      "url": "https://github.com/lintsinghua/DeepAudit",
+      "source": "github_trending",
+      "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 35,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.496627+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Token Economy",
+      "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
+      "source": "devto",
+      "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
+      "author": "dannwaneri",
+      "tags": [
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
+      ],
+      "category": "career",
+      "score": 34,
+      "comments_count": 25,
+      "reading_time_min": 4,
+      "published_at": "2026-02-26T13:36:47Z",
+      "fetched_at": "2026-02-27T05:36:01.867905+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "source": "lobsters",
+      "description": "",
+      "author": "krtab",
+      "tags": [
+        "security"
+      ],
+      "category": "ai",
+      "score": 34,
+      "comments_count": 15,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226431+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ourongxing/newsnow",
+      "url": "https://github.com/ourongxing/newsnow",
+      "source": "github_trending",
+      "description": "Elegant reading of real-time and hottest news",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 32,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.743994+00:00",
+      "language": "en"
+    },
+    {
+      "title": "jgraph/drawio",
+      "url": "https://github.com/jgraph/drawio",
+      "source": "github_trending",
+      "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 30,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.678961+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ArvinLovegood/go-stock",
+      "url": "https://github.com/ArvinLovegood/go-stock",
+      "source": "github_trending",
+      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 30,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.329576+00:00",
+      "language": "en"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "source": "github_trending",
+      "description": "",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 28,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.495035+00:00",
+      "language": "en"
+    },
+    {
+      "title": "visioncortex/vtracer",
+      "url": "https://github.com/visioncortex/vtracer",
+      "source": "github_trending",
+      "description": "Raster to Vector Graphics Converter",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 28,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.967282+00:00",
+      "language": "en"
+    },
+    {
+      "title": "OlaProeis/Ferrite",
+      "url": "https://github.com/OlaProeis/Ferrite",
+      "source": "github_trending",
+      "description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "data",
+      "score": 27,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.966474+00:00",
+      "language": "en"
+    },
+    {
+      "title": "temporalio/temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "source": "github_trending",
+      "description": "Temporal service",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "general",
+      "score": 26,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.333550+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How my side project got banned from the internet",
+      "url": "https://trysound.io/how-my-side-project-got-banned-from-the-internet/",
+      "source": "lobsters",
+      "description": "",
+      "author": "fanf",
+      "tags": [
+        "security"
+      ],
+      "category": "security",
+      "score": 25,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226403+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Move tests to closed source repo",
+      "url": "https://github.com/tldraw/tldraw/issues/8082",
+      "source": "hackernews",
+      "description": "",
+      "author": "nilsbunger",
+      "tags": [],
+      "category": "general",
+      "score": 23,
+      "comments_count": 16,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:02.838257+00:00",
+      "language": "en"
+    },
+    {
+      "title": "yichuan-w/LEANN",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "source": "github_trending",
+      "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 23,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.495834+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "source": "github_trending",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 21,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.325936+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Winner Announcement Delayed for Algolia Agent Studio Challenge and GitHub CLI Challenge",
+      "url": "https://dev.to/devteam/winner-announcement-delayed-for-algolia-agent-studio-challenge-and-github-cli-challenge-53ac",
+      "source": "devto",
+      "description": "Hey all,  Due to an incredible volume of submissions, we need a little more time to give every entry...",
+      "author": "jess",
+      "tags": [
+        "devchallenge",
+        "algoliachallenge",
+        "githubchallenge"
+      ],
+      "category": "tools",
+      "score": 20,
+      "comments_count": 7,
+      "reading_time_min": 1,
+      "published_at": "2026-02-26T21:39:03Z",
+      "fetched_at": "2026-02-27T05:36:01.867927+00:00",
+      "language": "en"
+    },
+    {
+      "title": "qodo-ai/pr-agent",
+      "url": "https://github.com/qodo-ai/pr-agent",
+      "source": "github_trending",
+      "description": "🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 20,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:07.497464+00:00",
+      "language": "en"
+    },
+    {
+      "title": "blackmatrix7/ios_rule_script",
+      "url": "https://github.com/blackmatrix7/ios_rule_script",
+      "source": "github_trending",
+      "description": "分流规则、重写写规则及脚本。",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 20,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.682194+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
+      "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
+      "source": "devto",
+      "description": "Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...",
+      "author": "jess",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "webdev",
+        "ai"
+      ],
+      "category": "general",
+      "score": 19,
+      "comments_count": 1,
+      "reading_time_min": 3,
+      "published_at": "2026-02-27T03:00:00Z",
+      "fetched_at": "2026-02-27T05:36:01.867933+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "source": "github_trending",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "ai",
+      "score": 18,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.681030+00:00",
+      "language": "en"
+    },
+    {
+      "title": "nasa-gibs/worldview",
+      "url": "https://github.com/nasa-gibs/worldview",
+      "source": "github_trending",
+      "description": "Interactive interface for browsing global, full-resolution satellite imagery",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 18,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.683443+00:00",
+      "language": "en"
+    },
+    {
+      "title": "sinelaw/fresh",
+      "url": "https://github.com/sinelaw/fresh",
+      "source": "github_trending",
+      "description": "Terminal based IDE & text editor: easy, powerful and fast",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "tools",
+      "score": 18,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.968979+00:00",
+      "language": "en"
+    },
+    {
+      "title": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "source": "github_trending",
+      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 18,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.970612+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Ordered Dithering with Arbitrary or Irregular Colour Palettes",
+      "url": "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/",
+      "source": "lobsters",
+      "description": "",
+      "author": "pekkavaa",
+      "tags": [
+        "graphics"
+      ],
+      "category": "general",
+      "score": 18,
+      "comments_count": 3,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226436+00:00",
+      "language": "en"
+    },
+    {
+      "title": "[AutoBe] We Built an AI That Writes Full Backend Apps — Then Broke Its 100% Success Rate on Purpose with Weak Local LLMs",
+      "url": "https://dev.to/samchon/autobe-we-built-an-ai-that-writes-full-backend-apps-then-broke-its-100-success-rate-on-purpose-5757",
+      "source": "devto",
+      "description": "TL;DR      Github Repository: https://github.com/wrtnlabs/autobe  Generated Examples:...",
+      "author": "samchon",
+      "tags": [
+        "typescript",
+        "backend",
+        "ai",
+        "opensource"
+      ],
+      "category": "web",
+      "score": 16,
+      "comments_count": 2,
+      "reading_time_min": 14,
+      "published_at": "2026-02-26T09:50:24Z",
+      "fetched_at": "2026-02-27T05:36:01.867982+00:00",
+      "language": "en"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "source": "github_trending",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "ai",
+      "score": 16,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:09.744379+00:00",
+      "language": "en"
+    },
+    {
+      "title": "grafana/mcp-grafana",
+      "url": "https://github.com/grafana/mcp-grafana",
+      "source": "github_trending",
+      "description": "MCP server for Grafana",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 16,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.327527+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
+      "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
+      "source": "hackernews",
+      "description": "",
+      "author": "paultendo",
+      "tags": [],
+      "category": "general",
+      "score": 15,
+      "comments_count": 4,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:04.271535+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ltaoo/wx_channels_download",
+      "url": "https://github.com/ltaoo/wx_channels_download",
+      "source": "github_trending",
+      "description": "微信视频号下载器",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "general",
+      "score": 15,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.328313+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Open Source Endowment — World's First Endowment Fund for OSS",
+      "url": "https://endowment.dev/",
+      "source": "lobsters",
+      "description": "",
+      "author": "byk",
+      "tags": [
+        "finance"
+      ],
+      "category": "opensource",
+      "score": 15,
+      "comments_count": 5,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226416+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Cartographic Symbologies: The Art and Design of Expression in Historic Maps",
+      "url": "https://exhibits.stanford.edu/cartosym/browse",
+      "source": "hackernews",
+      "description": "",
+      "author": "starkparker",
+      "tags": [],
+      "category": "general",
+      "score": 14,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:04.842318+00:00",
+      "language": "en"
+    },
+    {
+      "title": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "source": "github_trending",
+      "description": "Yet another WebUI for Nginx",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "devops",
+      "score": 14,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.329981+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+      "url": "https://github.com/Frikallo/parakeet.cpp",
+      "source": "hackernews",
+      "description": "",
+      "author": "noahkay13",
+      "tags": [],
+      "category": "languages",
+      "score": 13,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:03.062354+00:00",
+      "language": "en"
+    },
+    {
+      "title": "rapidaai/voice-ai",
+      "url": "https://github.com/rapidaai/voice-ai",
+      "source": "github_trending",
+      "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "devops",
+      "score": 13,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.331512+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Sliced by Go’s Slices",
+      "url": "https://ohadravid.github.io/posts/2026-02-go-sliced/",
+      "source": "lobsters",
+      "description": "",
+      "author": "ohrv",
+      "tags": [
+        "go",
+        "plt"
+      ],
+      "category": "general",
+      "score": 13,
+      "comments_count": 10,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226413+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp 1st-person game (2017)",
+      "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+      "source": "lobsters",
+      "description": "",
+      "author": "fanf",
+      "tags": [
+        "graphics"
+      ],
+      "category": "general",
+      "score": 13,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226422+00:00",
+      "language": "en"
+    },
+    {
+      "title": "lance-format/lance",
+      "url": "https://github.com/lance-format/lance",
+      "source": "github_trending",
+      "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "ai",
+      "score": 12,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.967663+00:00",
+      "language": "en"
+    },
+    {
+      "title": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "source": "github_trending",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "frameworks",
+      "score": 12,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.332770+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Model Collapse Ends AI Hype",
+      "url": "https://youtu.be/ShusuVq32hc",
+      "source": "lobsters",
+      "description": "",
+      "author": "doriancodes",
+      "tags": [
+        "ai",
+        "video"
+      ],
+      "category": "general",
+      "score": 12,
+      "comments_count": 12,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226439+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How the VM Actually Executes a Program in SQLite",
+      "url": "https://dev.to/lovestaco/how-the-vm-actually-executes-a-program-in-sqlite-28pj",
+      "source": "devto",
+      "description": "Hello, I'm Maneshwar. I'm working on git-lrc: a Git hook for Checking AI generated code.  So far,...",
+      "author": "lovestaco",
+      "tags": [
+        "webdev",
+        "programming",
+        "database",
+        "architecture"
+      ],
+      "category": "frameworks",
+      "score": 11,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-26T17:48:44Z",
+      "fetched_at": "2026-02-27T05:36:01.867985+00:00",
+      "language": "en"
+    },
+    {
+      "title": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "source": "github_trending",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "frameworks",
+      "score": 11,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.328792+00:00",
+      "language": "en"
+    },
+    {
+      "title": "AikidoSec/safe-chain",
+      "url": "https://github.com/AikidoSec/safe-chain",
+      "source": "github_trending",
+      "description": "Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "tools",
+      "score": 10,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.683068+00:00",
+      "language": "en"
+    },
+    {
+      "title": "idootop/open-xiaoai",
+      "url": "https://github.com/idootop/open-xiaoai",
+      "source": "github_trending",
+      "description": "🔊 让小爱音箱「听见你的声音」，解锁无限可能。",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 10,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.970226+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Can LLMs SAT?",
+      "url": "https://blog.aiono.dev/posts/can-llms-sat.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "aiono",
+      "tags": [
+        "vibecoding"
+      ],
+      "category": "general",
+      "score": 10,
+      "comments_count": 7,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226425+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Introducing Lyte2D: A comfy little game engine",
+      "url": "https://lyte2d.com/lyte.html?zip=public/lyte-intro.zip",
+      "source": "lobsters",
+      "description": "<p><a href=\"https://lyte2d.com\" rel=\"ugc\">https://lyte2d.com</a>. Think Love2D, but tighter API and supports wasm as well.</p>\n",
+      "author": "Relax",
+      "tags": [
+        "art",
+        "games"
+      ],
+      "category": "web",
+      "score": 10,
+      "comments_count": 11,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226469+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Vibe Coding Reality Check",
+      "url": "https://dev.to/konark_13/vibe-coding-reality-check-440a",
+      "source": "devto",
+      "description": "I was really excited about this hackathon because it was an offline event and completely focused on...",
+      "author": "konark_13",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "learning",
+        "hackathon"
+      ],
+      "category": "general",
+      "score": 8,
+      "comments_count": 11,
+      "reading_time_min": 4,
+      "published_at": "2026-02-26T13:47:41Z",
+      "fetched_at": "2026-02-27T05:36:01.867945+00:00",
+      "language": "en"
+    },
+    {
+      "title": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "source": "github_trending",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "general",
+      "score": 8,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.326350+00:00",
+      "language": "en"
+    },
+    {
+      "title": "opencost/opencost",
+      "url": "https://github.com/opencost/opencost",
+      "source": "github_trending",
+      "description": "Cost monitoring for Kubernetes workloads and cloud costs",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "devops",
+      "score": 8,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.331134+00:00",
+      "language": "en"
+    },
+    {
+      "title": "projectdiscovery/httpx",
+      "url": "https://github.com/projectdiscovery/httpx",
+      "source": "github_trending",
+      "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "frameworks",
+      "score": 8,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.331904+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Agent Skills Gold Rush Has a Malware Problem",
+      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
+      "source": "devto",
+      "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
+      "author": "meimakes",
+      "tags": [
+        "devtools",
+        "ai",
+        "productivity"
+      ],
+      "category": "security",
+      "score": 7,
+      "comments_count": 3,
+      "reading_time_min": 3,
+      "published_at": "2026-02-26T16:08:19Z",
+      "fetched_at": "2026-02-27T05:36:01.867937+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Adding Capacitor to Glif with Antigravity: The Good, The Bad, and The Reality Check 📱",
+      "url": "https://dev.to/playfulprogramming/adding-capacitor-to-glif-with-antigravity-the-good-the-bad-and-the-reality-check-4pm8",
+      "source": "devto",
+      "description": "Overview   Hey everyone 👋  I recently decided to take Glif, my minimalist QR code generator...",
+      "author": "dvalin99",
+      "tags": [
+        "ai",
+        "antigravity",
+        "mobile",
+        "opensource"
+      ],
+      "category": "mobile",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 8,
+      "published_at": "2026-02-26T17:46:28Z",
+      "fetched_at": "2026-02-27T05:36:01.867978+00:00",
+      "language": "en"
+    },
+    {
+      "title": "JVM timing options",
+      "url": "https://dev.to/nfrankel/jvm-timing-options-3hlj",
+      "source": "devto",
+      "description": "For as long as I have been coding in Java, we have had requirements to measure the execution time of...",
+      "author": "nfrankel",
+      "tags": [
+        "java",
+        "stopwatch",
+        "timer"
+      ],
+      "category": "languages",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 4,
+      "published_at": "2026-02-26T09:02:00Z",
+      "fetched_at": "2026-02-27T05:36:01.867988+00:00",
+      "language": "en"
+    },
+    {
+      "title": "TryGhost/Ghost",
+      "url": "https://github.com/TryGhost/Ghost",
+      "source": "github_trending",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.682671+00:00",
+      "language": "en"
+    },
+    {
+      "title": "rust-lang/rust-analyzer",
+      "url": "https://github.com/rust-lang/rust-analyzer",
+      "source": "github_trending",
+      "description": "A Rust compiler front-end for IDEs",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "web",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.966887+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "source": "github_trending",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "frameworks",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.971398+00:00",
+      "language": "en"
+    },
+    {
+      "title": "tmc/langchaingo",
+      "url": "https://github.com/tmc/langchaingo",
+      "source": "github_trending",
+      "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.327926+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Gilded Age of Open Source is over",
+      "url": "https://www.youtube.com/watch?v=pTBgvhdz9VU",
+      "source": "lobsters",
+      "description": "",
+      "author": "xvello",
+      "tags": [
+        "practices",
+        "video"
+      ],
+      "category": "opensource",
+      "score": 7,
+      "comments_count": 3,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226442+00:00",
+      "language": "en"
+    },
+    {
+      "title": "AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks",
+      "url": "https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/",
+      "source": "lobsters",
+      "description": "",
+      "author": "freddyb",
+      "tags": [
+        "networking",
+        "security"
+      ],
+      "category": "security",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226472+00:00",
+      "language": "en"
+    },
+    {
+      "title": "80386 Protection",
+      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
+      "source": "hackernews",
+      "description": "",
+      "author": "nand2mario",
+      "tags": [],
+      "category": "general",
+      "score": 6,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:03.176661+00:00",
+      "language": "en"
+    },
+    {
+      "title": "beclab/Olares",
+      "url": "https://github.com/beclab/Olares",
+      "source": "github_trending",
+      "description": "Olares: An Open-Source Personal Cloud to Reclaim Your Data",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "opensource",
+      "score": 6,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.327142+00:00",
+      "language": "en"
+    },
+    {
+      "title": "dapr/dapr",
+      "url": "https://github.com/dapr/dapr",
+      "source": "github_trending",
+      "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "tools",
+      "score": 6,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.332285+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Introducing PgBeam, a globally distributed PostgreSQL proxy",
+      "url": "https://pgbeam.com/launch",
+      "source": "lobsters",
+      "description": "",
+      "author": "tsg",
+      "tags": [
+        "databases"
+      ],
+      "category": "data",
+      "score": 6,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226453+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Lobsters Blog Carnival on April 1st - Submissions Open",
+      "url": "https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement",
+      "source": "lobsters",
+      "description": "<p>Following up on: <a href=\"https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement\" rel=\"ugc\">https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement</a></p>\n<p>Please prepare and PM submissions by March 23rd (or just post yourself on the carnival on April 1st). The topic: Why are different languages better than each other?</p>\n<ul>\n<li>Do you want to definitively prove Lisp's superiority, through <a href=\"https://www.youtube.com/watch?v=HM1Zb3xmvMc\" rel=\"ugc\">song</a>?</li>\n<li>Have you worked on metrics of measuring superior language or DSL fit to find the ultimate notation and thus tool of thought?</li>\n<li>Are you tired of people badmouthing PHP while you're too tired to defend its honor, because you're actually shipping stuff?</li>\n<li>Hell, do you have a good argument why Neolatino's <a href=\"https://terracalida.eu/per-que-falliscen-las-lenguas-artificiales\" rel=\"ugc\">better</a> than Esperanto?</li>\n<li>Do you have an even handed framework for actually picking the best tool for the job and not literally hitting everything with your hammer du jour?</li>\n</ul>\n<p>Write now for great fun and profit!</p>\n",
+      "author": "veqq",
+      "tags": [
+        "event"
+      ],
+      "category": "frameworks",
+      "score": 6,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226460+00:00",
+      "language": "en"
+    },
+    {
+      "title": "atlassian/atlassian-mcp-server",
+      "url": "https://github.com/atlassian/atlassian-mcp-server",
+      "source": "github_trending",
+      "description": "Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "ai",
+      "score": 5,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.679359+00:00",
+      "language": "en"
+    },
+    {
+      "title": "WebGoat/WebGoat",
+      "url": "https://github.com/WebGoat/WebGoat",
+      "source": "github_trending",
+      "description": "WebGoat is a deliberately insecure application",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 5,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:08.681800+00:00",
+      "language": "en"
+    },
+    {
+      "title": "bytedance/sonic",
+      "url": "https://github.com/bytedance/sonic",
+      "source": "github_trending",
+      "description": "A blazingly fast JSON serializing & deserializing library",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "frameworks",
+      "score": 5,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.330741+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Man Who Stole Infinity",
+      "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
+      "source": "lobsters",
+      "description": "",
+      "author": "jo3_l",
+      "tags": [
+        "historical",
+        "math"
+      ],
+      "category": "general",
+      "score": 5,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:13.226445+00:00",
+      "language": "en"
+    },
+    {
+      "title": "NVIDIA/bare-metal-manager-core",
+      "url": "https://github.com/NVIDIA/bare-metal-manager-core",
+      "source": "github_trending",
+      "description": "NVIDIA Bare Metal Manager - Hardware Lifecycle Management and multitenant networking",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "career",
+      "score": 4,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.969414+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I Built an AI Agent Monitoring System as a Non-Dev Side Project. Here's Why.",
+      "url": "https://dev.to/sidhomein/i-built-an-ai-agent-monitoring-system-as-a-non-dev-side-project-heres-why-4jmg",
+      "source": "devto",
+      "description": "Hey everyone. This is my first ever side project and my first ever post here. I'm not a developer by...",
+      "author": "sidhomein",
+      "tags": [
+        "ai",
+        "opensource",
+        "python",
+        "security"
+      ],
+      "category": "ai",
+      "score": 3,
+      "comments_count": 1,
+      "reading_time_min": 2,
+      "published_at": "2026-02-26T18:16:44Z",
+      "fetched_at": "2026-02-27T05:36:01.867948+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Polymarket/rs-clob-client",
+      "url": "https://github.com/Polymarket/rs-clob-client",
+      "source": "github_trending",
+      "description": "Polymarket Rust CLOB Client",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 3,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:10.971018+00:00",
+      "language": "en"
+    },
+    {
+      "title": "jmoiron/sqlx",
+      "url": "https://github.com/jmoiron/sqlx",
+      "source": "github_trending",
+      "description": "general purpose extensions to golang's database/sql",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "data",
+      "score": 3,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.333940+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Stop Writing Step Functions by Hand",
+      "url": "https://dev.to/devnamedzed/stop-writing-step-functions-by-hand-4nog",
+      "source": "devto",
+      "description": "If you've worked with Step Functions at any real scale, you know the concept is great — orchestrate...",
+      "author": "devnamedzed",
+      "tags": [
+        "aws",
+        "typescript",
+        "serverless",
+        "stepfunctions"
+      ],
+      "category": "devops",
+      "score": 2,
+      "comments_count": 0,
+      "reading_time_min": 5,
+      "published_at": "2026-02-26T22:10:42Z",
+      "fetched_at": "2026-02-27T05:36:01.867941+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How I built a real-time hiring signal API and what I learned",
+      "url": "https://dev.to/nopp/how-i-built-a-real-time-hiring-signal-api-and-what-i-learned-1j5m",
+      "source": "devto",
+      "description": "I want to tell you about the moment I realized I was building the wrong thing.  It was 11pm. I had...",
+      "author": "nopp",
+      "tags": [
+        "webdev",
+        "api",
+        "saas"
+      ],
+      "category": "career",
+      "score": 2,
+      "comments_count": 0,
+      "reading_time_min": 8,
+      "published_at": "2026-02-26T17:39:53Z",
+      "fetched_at": "2026-02-27T05:36:01.867969+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Stop Letting Your AI Agent Forge Human Approval",
+      "url": "https://dev.to/aniketh_609/stop-letting-your-ai-agent-forge-human-approval-2h9k",
+      "source": "devto",
+      "description": "2:47am. Your support agent issues a $500 refund. Compliance asks: \"Who approved this?\"   You...",
+      "author": "aniketh_609",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "rust"
+      ],
+      "category": "security",
+      "score": 2,
+      "comments_count": 0,
+      "reading_time_min": 2,
+      "published_at": "2026-02-27T01:07:36Z",
+      "fetched_at": "2026-02-27T05:36:01.868002+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Native Random Values in CSS",
+      "url": "https://dev.to/alvaromontoro/native-random-values-in-css-a7e",
+      "source": "devto",
+      "description": "The CSS Working Group has published the Values and Units Module Level 5, which introduces native mechanisms for generating random content using only CSS. This is the tl;dr of a longer article exploring randomness in CSS.",
+      "author": "alvaromontoro",
+      "tags": [
+        "css",
+        "webdev",
+        "html",
+        "javascript"
+      ],
+      "category": "web",
+      "score": 2,
+      "comments_count": 0,
+      "reading_time_min": 5,
+      "published_at": "2026-02-26T17:07:20Z",
+      "fetched_at": "2026-02-27T05:36:01.868022+00:00",
+      "language": "en"
+    },
+    {
+      "title": "kubernetes/ingress-nginx",
+      "url": "https://github.com/kubernetes/ingress-nginx",
+      "source": "github_trending",
+      "description": "Ingress NGINX Controller for Kubernetes",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "devops",
+      "score": 2,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-02-27T05:36:12.330361+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Solved: Critical RSC Vulnerability in Next.js & React 19. Here's the Fix.",
+      "url": "https://dev.to/techresolve/solved-critical-rsc-vulnerability-in-nextjs-react-19-heres-the-fix-3mlk",
+      "source": "devto",
+      "description": "🚀 Executive Summary   TL;DR: A critical Remote Code Execution (RCE) vulnerability has been...",
+      "author": "techresolve",
+      "tags": [
+        "devops",
+        "programming",
+        "tutorial",
+        "cloud"
+      ],
+      "category": "web",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 5,
+      "published_at": "2026-02-26T07:40:00Z",
+      "fetched_at": "2026-02-27T05:36:01.867959+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Curse of The Context Window",
+      "url": "https://dev.to/deathsaber/the-curse-of-context-window-1c7i",
+      "source": "devto",
+      "description": "TL;DR: Large-document extraction with LLMs fails less from “bad reasoning” and more from hard output...",
+      "author": "deathsaber",
+      "tags": [
+        "ai",
+        "programming",
+        "learning",
+        "llm"
+      ],
+      "category": "ai",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-26T23:37:17Z",
+      "fetched_at": "2026-02-27T05:36:01.867975+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How I Built a Big Data Survival Guide - Because My Semester Was Not Surviving Me",
+      "url": "https://dev.to/nk2552003/how-i-built-a-big-data-survival-guide-because-my-semester-was-not-surviving-me-5bji",
+      "source": "devto",
+      "description": "When I first opened my Big Data Analytics syllabus, I thought:   “Okay… this looks manageable.”   Ten...",
+      "author": "nk2552003",
+      "tags": [
+        "datascience",
+        "opensource",
+        "learning",
+        "bigdata"
+      ],
+      "category": "data",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-27T04:35:13Z",
+      "fetched_at": "2026-02-27T05:36:01.867995+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Introducing PgBeam",
+      "url": "https://dev.to/sferadev/introducing-pgbeam-3d55",
+      "source": "devto",
+      "description": "A globally distributed PostgreSQL proxy",
+      "author": "sferadev",
+      "tags": [
+        "postgres",
+        "cloud",
+        "aws",
+        "database"
+      ],
+      "category": "data",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 2,
+      "published_at": "2026-02-26T22:09:03Z",
+      "fetched_at": "2026-02-27T05:36:01.867999+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Homelab Netzwerk mit VLANs absichern: Schritt-für-Schritt mit pfSense",
+      "url": "https://dev.to/rainyday_7139f53fa9f963fe/homelab-netzwerk-mit-vlans-absichern-schritt-fur-schritt-mit-pfsense-26gg",
+      "source": "devto",
+      "description": "Wie du dein Homelab mit VLANs und pfSense professionell segmentierst – von der Planung bis zur fertigen Konfiguration.",
+      "author": "rainyday_7139f53fa9f963fe",
+      "tags": [
+        "homelab",
+        "networking",
+        "german",
+        "selfhosted"
+      ],
+      "category": "general",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 7,
+      "published_at": "2026-02-26T20:45:39Z",
+      "fetched_at": "2026-02-27T05:36:01.868012+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Hourly Trap: Why Freelance Developers Must Switch to Value-Based Pricing in 2026",
+      "url": "https://dev.to/frankdotdev/the-hourly-trap-why-freelance-developers-must-switch-to-value-based-pricing-in-2026-1afa",
+      "source": "devto",
+      "description": "There is a fatal flaw in how 90% of freelance software developers run their businesses: Hourly...",
+      "author": "frankdotdev",
+      "tags": [
+        "freelance"
+      ],
+      "category": "career",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 2,
+      "published_at": "2026-02-26T22:22:10Z",
+      "fetched_at": "2026-02-27T05:36:01.868016+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I Had an AI Agent Build Me a Full App. 46K Lines of Code, 3 Platforms, Zero Dart Knowledge",
+      "url": "https://dev.to/hcan_359/i-had-an-ai-agent-build-me-a-full-app-46k-lines-of-code-3-platforms-zero-dart-knowledge-23p0",
+      "source": "devto",
+      "description": "Disclaimer: this article was also written by an AI agent. I’m a developer, not a writer — my raw...",
+      "author": "hcan_359",
+      "tags": [
+        "ai",
+        "opensource",
+        "showdev",
+        "flutter"
+      ],
+      "category": "mobile",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 6,
+      "published_at": "2026-02-26T20:08:37Z",
+      "fetched_at": "2026-02-27T05:36:01.867952+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How I Built a Streaming Search Engine in a Week",
+      "url": "https://dev.to/wherecaniwatch/how-i-built-a-streaming-search-engine-in-a-week-3a6k",
+      "source": "devto",
+      "description": "Ever googled \"where can I watch [movie]?\" and gotten a wall of SEO spam, affiliate links, and...",
+      "author": "wherecaniwatch",
+      "tags": [
+        "showdev"
+      ],
+      "category": "general",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-27T03:39:02Z",
+      "fetched_at": "2026-02-27T05:36:01.867955+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I got tired of Googling pandas methods, so I built this",
+      "url": "https://dev.to/ali_aldahmani/i-got-tired-of-googling-pandas-methods-so-i-built-this-35pn",
+      "source": "devto",
+      "description": "I built a VS Code extension that shows Python cheat sheets right next to your code.  So I got tired...",
+      "author": "ali_aldahmani",
+      "tags": [],
+      "category": "languages",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 1,
+      "published_at": "2026-02-26T22:11:09Z",
+      "fetched_at": "2026-02-27T05:36:01.867962+00:00",
+      "language": "en"
+    },
+    {
+      "title": "From Query Tuning to Cache Versioning: Lessons from a Production Endpoint",
+      "url": "https://dev.to/codewithrani/from-query-tuning-to-cache-versioning-lessons-from-a-production-endpoint-4968",
+      "source": "devto",
+      "description": "This week, I tried optimizing a production endpoint.  My first instinct was predictable: rewrite the...",
+      "author": "codewithrani",
+      "tags": [],
+      "category": "general",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 3,
+      "published_at": "2026-02-26T20:09:04Z",
+      "fetched_at": "2026-02-27T05:36:01.867965+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Millions of Flow Cytometry Datasets Are Useless for AI — Here's Why, and What It Would Take to Fix It",
+      "url": "https://dev.to/wcamon/millions-of-flow-cytometry-datasets-are-useless-for-ai-heres-why-and-what-it-would-take-to-fix-425i",
+      "source": "devto",
+      "description": "NIST, FDA, and NIAID convened a first-of-its-kind workshop to address a crisis hiding in plain sight: millions of flow cytometry datasets are unusable for AI. We traced the evidence trail from 211,359",
+      "author": "wcamon",
+      "tags": [
+        "flowcytometry",
+        "aiagents",
+        "machinelearning",
+        "datascience"
+      ],
+      "category": "general",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 7,
+      "published_at": "2026-02-26T22:11:08Z",
+      "fetched_at": "2026-02-27T05:36:01.867972+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Duplicati vs Borgmatic: Which Backup Tool?",
+      "url": "https://dev.to/selfhostingsh/duplicati-vs-borgmatic-which-backup-tool-bdd",
+      "source": "devto",
+      "description": "Quick Verdict   Borgmatic is the better backup tool for most self-hosters. Its deduplication...",
+      "author": "selfhostingsh",
+      "tags": [
+        "selfhosted",
+        "linux",
+        "homelab"
+      ],
+      "category": "general",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 6,
+      "published_at": "2026-02-26T22:11:16Z",
+      "fetched_at": "2026-02-27T05:36:01.867992+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Event marketplace architecture for food trucks in Romania",
+      "url": "https://dev.to/signalfast/event-marketplace-architecture-for-food-trucks-in-romania-p22",
+      "source": "devto",
+      "description": "A technical deep-dive into event marketplace architecture: search, availability, messaging, and scaling patterns for a food-truck platform like RoFoodTruck...",
+      "author": "signalfast",
+      "tags": [
+        "architecture",
+        "postgres",
+        "marketplace",
+        "devops"
+      ],
+      "category": "devops",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 5,
+      "published_at": "2026-02-26T16:12:03Z",
+      "fetched_at": "2026-02-27T05:36:01.868005+00:00",
+      "language": "en"
+    },
+    {
+      "title": "When AI Refactors Break Layering (And How to Prevent It)",
+      "url": "https://dev.to/dbrown/when-ai-refactors-break-layering-and-how-to-prevent-it-k",
+      "source": "devto",
+      "description": "In a previous post, I wrote about integrating AI into a Spring Boot system without compromising...",
+      "author": "dbrown",
+      "tags": [
+        "architecture",
+        "ddd",
+        "ai",
+        "springboot"
+      ],
+      "category": "frameworks",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 4,
+      "published_at": "2026-02-26T23:38:22Z",
+      "fetched_at": "2026-02-27T05:36:01.868009+00:00",
+      "language": "en"
+    },
+    {
+      "title": "JSON to Rust Struct: Complete Guide with serde_json and serde Derive",
+      "url": "https://dev.to/arenasbob2024cell/json-to-rust-struct-complete-guide-with-serdejson-and-serde-derive-1ogg",
+      "source": "devto",
+      "description": "Convert JSON to Rust structs using serde_json. Here's everything Rust developers need.          ...",
+      "author": "arenasbob2024cell",
+      "tags": [
+        "rust",
+        "json",
+        "webdev",
+        "backend"
+      ],
+      "category": "general",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 2,
+      "published_at": "2026-02-27T01:16:51Z",
+      "fetched_at": "2026-02-27T05:36:01.868019+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Scaling Ethereum: When to Choose Layer 2 vs Alt-L1 vs Sidechains",
+      "url": "https://dev.to/sankalp_sharma_634764b990/scaling-ethereum-when-to-choose-layer-2-vs-alt-l1-vs-sidechains-57jo",
+      "source": "devto",
+      "description": "Scaling Ethereum: Layer 2 vs Alt-L1 vs Sidechains - Your Complete Decision Guide   Picture...",
+      "author": "sankalp_sharma_634764b990",
+      "tags": [
+        "architecture",
+        "blockchain",
+        "ethereum",
+        "web3"
+      ],
+      "category": "general",
+      "score": 0,
+      "comments_count": 0,
+      "reading_time_min": 10,
+      "published_at": "2026-02-27T04:36:29Z",
+      "fetched_at": "2026-02-27T05:36:01.868025+00:00",
+      "language": "en"
+    }
+  ]
+}
