@@ -1,0 +1,2894 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T18:33:33.709620+00:00",
+  "digest": [
+    {
+      "title_en": "huggingface/transformers",
+      "title_pt": "huggingface/transformers",
+      "body_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.\n\nTags: `python`\n\nCommunity buzz: **536** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.\n\nTags: `python`\n\nRepercussão: **536** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "ai",
+      "emoji": "🤖",
+      "sources": [
+        {
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "MadsLorentzen/ai-job-search",
+      "title_pt": "MadsLorentzen/ai-job-search",
+      "body_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\nTags: `python`\n\nCommunity buzz: **511** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\nTags: `python`\n\nRepercussão: **511** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "ai",
+      "emoji": "🤖",
+      "sources": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "anthropics/knowledge-work-plugins",
+      "title_pt": "anthropics/knowledge-work-plugins",
+      "body_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\nTags: `python`\n\nCommunity buzz: **443** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\nTags: `python`\n\nRepercussão: **443** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "ai",
+      "emoji": "🤖",
+      "sources": [
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "farion1231/cc-switch",
+      "title_pt": "farion1231/cc-switch",
+      "body_en": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io\n\nTags: `rust`\n\nCommunity buzz: **410** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io\n\nTags: `rust`\n\nRepercussão: **410** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "ai",
+      "emoji": "🤖",
+      "sources": [
+        {
+          "title": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "morluto/rea",
+      "title_pt": "morluto/rea",
+      "body_en": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nTags: `typescript`\n\nCommunity buzz: **25,585** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nTags: `typescript`\n\nRepercussão: **25,585** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "web",
+      "emoji": "🌐",
+      "sources": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "bilawalsidhu/gods-eye-view",
+      "title_pt": "bilawalsidhu/gods-eye-view",
+      "body_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\n\nTags: `javascript`\n\nCommunity buzz: **872** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\n\nTags: `javascript`\n\nRepercussão: **872** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "web",
+      "emoji": "🌐",
+      "sources": [
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "mksglu/context-mode",
+      "title_pt": "mksglu/context-mode",
+      "body_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nTags: `typescript`\n\nCommunity buzz: **526** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nTags: `typescript`\n\nRepercussão: **526** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "web",
+      "emoji": "🌐",
+      "sources": [
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "chthollyphile/folia-major",
+      "title_pt": "chthollyphile/folia-major",
+      "body_en": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器\n\nTags: `typescript`\n\nCommunity buzz: **500** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器\n\nTags: `typescript`\n\nRepercussão: **500** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "web",
+      "emoji": "🌐",
+      "sources": [
+        {
+          "title": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Project-HAMi/HAMi",
+      "title_pt": "Project-HAMi/HAMi",
+      "body_en": "Heterogeneous GPU Sharing on Kubernetes\n\nTags: `go`\n\nCommunity buzz: **35** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Heterogeneous GPU Sharing on Kubernetes\n\nTags: `go`\n\nRepercussão: **35** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "Project-HAMi/HAMi",
+          "url": "https://github.com/Project-HAMi/HAMi",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "0xJacky/nginx-ui",
+      "title_pt": "0xJacky/nginx-ui",
+      "body_en": "Yet another WebUI for Nginx\n\nTags: `go`\n\nCommunity buzz: **11** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Yet another WebUI for Nginx\n\nTags: `go`\n\nRepercussão: **11** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "0xJacky/nginx-ui",
+          "url": "https://github.com/0xJacky/nginx-ui",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "fish2018/pansou",
+      "title_pt": "fish2018/pansou",
+      "body_en": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。https://t.me/s/webhtv\n\nTags: `go`\n\nCommunity buzz: **10** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。https://t.me/s/webhtv\n\nTags: `go`\n\nRepercussão: **10** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "devops",
+      "emoji": "☁️",
+      "sources": [
+        {
+          "title": "fish2018/pansou",
+          "url": "https://github.com/fish2018/pansou",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "debpalash/VoiceStudio",
+      "title_pt": "debpalash/VoiceStudio",
+      "body_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nTags: `python`\n\nCommunity buzz: **1,215** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nTags: `python`\n\nRepercussão: **1,215** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "hugohe3/ppt-master",
+      "title_pt": "hugohe3/ppt-master",
+      "body_en": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He\n\nTags: `python`\n\nCommunity buzz: **1,097** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He\n\nTags: `python`\n\nRepercussão: **1,097** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "HunxByts/GhostTrack",
+      "title_pt": "HunxByts/GhostTrack",
+      "body_en": "Useful tool to track location or mobile number\n\nTags: `python`\n\nCommunity buzz: **171** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Useful tool to track location or mobile number\n\nTags: `python`\n\nRepercussão: **171** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "datawhalechina/hello-agents",
+      "title_pt": "datawhalechina/hello-agents",
+      "body_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程\n\nTags: `python`\n\nCommunity buzz: **126** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程\n\nTags: `python`\n\nRepercussão: **126** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "languages",
+      "emoji": "💻",
+      "sources": [
+        {
+          "title": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "BishopFox/sliver",
+      "title_pt": "BishopFox/sliver",
+      "body_en": "Adversary Emulation Framework\n\nTags: `go`\n\nCommunity buzz: **60** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Adversary Emulation Framework\n\nTags: `go`\n\nRepercussão: **60** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "frameworks",
+      "emoji": "🧩",
+      "sources": [
+        {
+          "title": "BishopFox/sliver",
+          "url": "https://github.com/BishopFox/sliver",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "How shredding JSON is giving Logfire 1000x query speedups",
+      "title_pt": "How shredding JSON is giving Logfire 1000x query speedups",
+      "body_en": "**How shredding JSON is giving Logfire 1000x query speedups** caught attention in the frameworks & tools space today.\n\nTags: `databases`, `performance` · Author: **typesanitizer**\n\nCommunity buzz: **18** points, **2** comments, via **Lobsters**. Check the original source below for the full story.",
+      "body_pt": "**How shredding JSON is giving Logfire 1000x query speedups** chamou atenção no mundo de frameworks & ferramentas hoje.\n\nTags: `databases`, `performance` · Autor: **typesanitizer**\n\nRepercussão: **18** pontos, **2** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "frameworks",
+      "emoji": "🧩",
+      "sources": [
+        {
+          "title": "How shredding JSON is giving Logfire 1000x query speedups",
+          "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+          "source": "lobsters"
+        }
+      ]
+    },
+    {
+      "title_en": "MongoDB 8.3's arrayIndexAs cuts a map-with-index workaround's overhead by up to 31%",
+      "title_pt": "MongoDB 8.3's arrayIndexAs cuts a map-with-index workaround's overhead by up to 31%",
+      "body_en": "I benchmarked MongoDB 8.3's new arrayIndexAs against the range-and-arrayElemAt workaround it replaces: 134ms versus 102ms server-side at 320,000 elements, a gap that shrinks to about 5% once ten clients compete for the same CPU cores.\n\nTags: `mongodb`, `database`, `performance`, `devops` · Author: **alexgeorgiev17**\n\nCommunity buzz: **11** points, **1** comments, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "I benchmarked MongoDB 8.3's new arrayIndexAs against the range-and-arrayElemAt workaround it replaces: 134ms versus 102ms server-side at 320,000 elements, a gap that shrinks to about 5% once ten clients compete for the same CPU cores.\n\nTags: `mongodb`, `database`, `performance`, `devops` · Autor: **alexgeorgiev17**\n\nRepercussão: **11** pontos, **1** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "frameworks",
+      "emoji": "🧩",
+      "sources": [
+        {
+          "title": "MongoDB 8.3's arrayIndexAs cuts a map-with-index workaround's overhead by up to 31%",
+          "url": "https://dev.to/alexgeorgiev17/mongodb-83s-arrayindexas-cuts-a-map-with-index-workarounds-overhead-by-up-to-31-409p",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "Consistency is not a localized property",
+      "title_pt": "Consistency is not a localized property",
+      "body_en": "**Consistency is not a localized property** caught attention in the frameworks & tools space today.\n\nTags: `ai`, `databases`, `programming` · Author: **b--man**\n\nCommunity buzz: **6** points, **2** comments, via **Lobsters**. Check the original source below for the full story.",
+      "body_pt": "**Consistency is not a localized property** chamou atenção no mundo de frameworks & ferramentas hoje.\n\nTags: `ai`, `databases`, `programming` · Autor: **b--man**\n\nRepercussão: **6** pontos, **2** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "frameworks",
+      "emoji": "🧩",
+      "sources": [
+        {
+          "title": "Consistency is not a localized property",
+          "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+          "source": "lobsters"
+        }
+      ]
+    },
+    {
+      "title_en": "martin-olivier/airgorah",
+      "title_pt": "martin-olivier/airgorah",
+      "body_en": "A WiFi security auditing software\n\nTags: `rust`\n\nCommunity buzz: **75** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "A WiFi security auditing software\n\nTags: `rust`\n\nRepercussão: **75** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "security",
+      "emoji": "🔒",
+      "sources": [
+        {
+          "title": "martin-olivier/airgorah",
+          "url": "https://github.com/martin-olivier/airgorah",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Autumn-27/ScopeSentry",
+      "title_pt": "Autumn-27/ScopeSentry",
+      "body_en": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes\n\nTags: `go`\n\nCommunity buzz: **27** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes\n\nTags: `go`\n\nRepercussão: **27** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "security",
+      "emoji": "🔒",
+      "sources": [
+        {
+          "title": "Autumn-27/ScopeSentry",
+          "url": "https://github.com/Autumn-27/ScopeSentry",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Hacking the Eufy Doorbell and Base Station",
+      "title_pt": "Hacking the Eufy Doorbell and Base Station",
+      "body_en": "<p><a href=\"https://adepts.of0x.cc/eufy-homestation2-firmware/\" rel=\"ugc\">Here is the follow-up dive into the base station</a></p>\n\nTags: `hardware`, `security` · Author: **hoistbypetard**\n\nCommunity buzz: **2** points, **1** comments, via **Lobsters**. Check the original source below for the full story.",
+      "body_pt": "<p><a href=\"https://adepts.of0x.cc/eufy-homestation2-firmware/\" rel=\"ugc\">Here is the follow-up dive into the base station</a></p>\n\nTags: `hardware`, `security` · Autor: **hoistbypetard**\n\nRepercussão: **2** pontos, **1** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "security",
+      "emoji": "🔒",
+      "sources": [
+        {
+          "title": "Hacking the Eufy Doorbell and Base Station",
+          "url": "https://adepts.of0x.cc/Eufy-DoorBell-hacking/",
+          "source": "lobsters"
+        }
+      ]
+    },
+    {
+      "title_en": "How to Build Wealth as a Career Person",
+      "title_pt": "How to Build Wealth as a Career Person",
+      "body_en": "**How to Build Wealth as a Career Person** caught attention in the career & community space today.\n\nAuthor: **doppp**\n\nCommunity buzz: **33** points, **24** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**How to Build Wealth as a Career Person** chamou atenção no mundo de carreira & comunidade hoje.\n\nAutor: **doppp**\n\nRepercussão: **33** pontos, **24** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "career",
+      "emoji": "🚀",
+      "sources": [
+        {
+          "title": "How to Build Wealth as a Career Person",
+          "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "My Commit Your Code'26 Experience",
+      "title_pt": "My Commit Your Code'26 Experience",
+      "body_en": "Last month, I participated as a speaker at the Commit Your Code conference in Plano, Texas. The talks, the organization, and the people who attended, made it a very special event that left me with a big smile on my face.\n\nTags: `conference`, `watercooler`, `cyc26` · Author: **alvaromontoro**\n\nCommunity buzz: **2** points, **1** comments, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "Last month, I participated as a speaker at the Commit Your Code conference in Plano, Texas. The talks, the organization, and the people who attended, made it a very special event that left me with a big smile on my face.\n\nTags: `conference`, `watercooler`, `cyc26` · Autor: **alvaromontoro**\n\nRepercussão: **2** pontos, **1** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "career",
+      "emoji": "🚀",
+      "sources": [
+        {
+          "title": "My Commit Your Code'26 Experience",
+          "url": "https://dev.to/alvaromontoro/my-commit-your-code26-experience-2hcp",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "majd/ipatool",
+      "title_pt": "majd/ipatool",
+      "body_en": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.\n\nTags: `go`\n\nCommunity buzz: **48** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.\n\nTags: `go`\n\nRepercussão: **48** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "mobile",
+      "emoji": "📱",
+      "sources": [
+        {
+          "title": "majd/ipatool",
+          "url": "https://github.com/majd/ipatool",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Inside a 1980s filter chip that uses switched capacitors",
+      "title_pt": "Inside a 1980s filter chip that uses switched capacitors",
+      "body_en": "**Inside a 1980s filter chip that uses switched capacitors** caught attention in the mobile development space today.\n\nTags: `hardware`, `historical`, `reversing` · Author: **calvin**\n\nCommunity buzz: **18** points, **1** comments, via **Lobsters**. Check the original source below for the full story.",
+      "body_pt": "**Inside a 1980s filter chip that uses switched capacitors** chamou atenção no mundo de desenvolvimento mobile hoje.\n\nTags: `hardware`, `historical`, `reversing` · Autor: **calvin**\n\nRepercussão: **18** pontos, **1** comentários, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "mobile",
+      "emoji": "📱",
+      "sources": [
+        {
+          "title": "Inside a 1980s filter chip that uses switched capacitors",
+          "url": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+          "source": "lobsters"
+        }
+      ]
+    },
+    {
+      "title_en": "Side Quests Grow on Trees (Leave Them Where They Grow) 🌿",
+      "title_pt": "Side Quests Grow on Trees (Leave Them Where They Grow) 🌿",
+      "body_en": "A kids' plant treasure hunt for Android with on-device BioCLIP and TinyCLIP, Gemma 4 hints built locally, and 0 of 267 toxic test photos passing as a match.\n\nTags: `devchallenge`, `hf26challenge`, `android`, `gemma` · Author: **anchildress1**\n\nCommunity buzz: **14** points, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "A kids' plant treasure hunt for Android with on-device BioCLIP and TinyCLIP, Gemma 4 hints built locally, and 0 of 267 toxic test photos passing as a match.\n\nTags: `devchallenge`, `hf26challenge`, `android`, `gemma` · Autor: **anchildress1**\n\nRepercussão: **14** pontos, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "mobile",
+      "emoji": "📱",
+      "sources": [
+        {
+          "title": "Side Quests Grow on Trees (Leave Them Where They Grow) 🌿",
+          "url": "https://dev.to/anchildress1/side-quests-grow-on-trees-leave-them-where-they-grow-84e",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "Can You Tell the Difference Between These iOS Tab Bars?",
+      "title_pt": "Can You Tell the Difference Between These iOS Tab Bars?",
+      "body_en": "Reconstructing iOS 27 tab motion from real touches, spring equations, color matrices and a side-by-side simulator comparison.\n\nTags: `java`, `mobile`, `android`, `ios` · Author: **codenameone**\n\nCommunity buzz: **1** comments, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "Reconstructing iOS 27 tab motion from real touches, spring equations, color matrices and a side-by-side simulator comparison.\n\nTags: `java`, `mobile`, `android`, `ios` · Autor: **codenameone**\n\nRepercussão: **1** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "mobile",
+      "emoji": "📱",
+      "sources": [
+        {
+          "title": "Can You Tell the Difference Between These iOS Tab Bars?",
+          "url": "https://dev.to/codenameone/can-you-tell-the-difference-between-these-ios-tab-bars-dmg",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "JSON Tiles: Fast Analytics on Semi-Structured Data (2021)",
+      "title_pt": "JSON Tiles: Fast Analytics on Semi-Structured Data (2021)",
+      "body_en": "<p>Abstract: Developers often prefer flexibility over upfront schema design, making semi-structured data formats such as JSON increasingly popular. Large amounts of JSON data are therefore stored and analyzed by\nrelational database systems. In existing systems, however, JSON’s lack of a fixed schema results in slow analytics. In this paper, we present JSON tiles, which, without losing the flexibility of JSON, enables relational systems to perform analytics on JSON data at native speed. JSON tiles automatically detects the most important keys and\nextracts them transparently – often achieving scan performance similar to columnar storage. At the same time, JSON tiles is capable of handling heterogeneous and changing data. Furthermore, we\nautomatically collect statistics that enable the query optimizer to find good execution plans. Our experimental evaluation compares against state-of-the-art systems and research proposals and shows that our approach is both robust and efficient.</p>\n\nTags: `databases`, `pdf`, `performance` · Author: **typesanitizer**\n\nCommunity buzz: **3** points, via **Lobsters**. Check the original source below for the full story.",
+      "body_pt": "<p>Abstract: Developers often prefer flexibility over upfront schema design, making semi-structured data formats such as JSON increasingly popular. Large amounts of JSON data are therefore stored and analyzed by\nrelational database systems. In existing systems, however, JSON’s lack of a fixed schema results in slow analytics. In this paper, we present JSON tiles, which, without losing the flexibility of JSON, enables relational systems to perform analytics on JSON data at native speed. JSON tiles automatically detects the most important keys and\nextracts them transparently – often achieving scan performance similar to columnar storage. At the same time, JSON tiles is capable of handling heterogeneous and changing data. Furthermore, we\nautomatically collect statistics that enable the query optimizer to find good execution plans. Our experimental evaluation compares against state-of-the-art systems and research proposals and shows that our approach is both robust and efficient.</p>\n\nTags: `databases`, `pdf`, `performance` · Autor: **typesanitizer**\n\nRepercussão: **3** pontos, via **Lobsters**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "data",
+      "emoji": "🗄️",
+      "sources": [
+        {
+          "title": "JSON Tiles: Fast Analytics on Semi-Structured Data (2021)",
+          "url": "https://db.cit.tum.de/~durner/papers/json-tiles-sigmod21.pdf",
+          "source": "lobsters"
+        }
+      ]
+    },
+    {
+      "title_en": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "title_pt": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "body_en": "**Show HN: BetterWispr – Free, open-source dictation for Mac** caught attention in the open source space today.\n\nAuthor: **kartik017**\n\nCommunity buzz: **88** points, **58** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**Show HN: BetterWispr – Free, open-source dictation for Mac** chamou atenção no mundo de open source hoje.\n\nAutor: **kartik017**\n\nRepercussão: **88** pontos, **58** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "opensource",
+      "emoji": "💚",
+      "sources": [
+        {
+          "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+          "url": "https://betterwispr.com/",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "FarbeDex: a colour picker that only works outside (and never needs the internet)",
+      "title_pt": "FarbeDex: a colour picker that only works outside (and never needs the internet)",
+      "body_en": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...\n\nTags: `devchallenge`, `hf26challenge`, `gemma`, `android` · Author: **dronzer2code**\n\nCommunity buzz: **30** points, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...\n\nTags: `devchallenge`, `hf26challenge`, `gemma`, `android` · Autor: **dronzer2code**\n\nRepercussão: **30** pontos, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "opensource",
+      "emoji": "💚",
+      "sources": [
+        {
+          "title": "FarbeDex: a colour picker that only works outside (and never needs the internet)",
+          "url": "https://dev.to/dronzer2code/farbedex-a-colour-picker-that-only-works-outside-and-never-needs-the-internet-4b9o",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "Buy This, Not That, Drop This There” - I Made It Make Sense",
+      "title_pt": "Buy This, Not That, Drop This There” - I Made It Make Sense",
+      "body_en": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass           The...\n\nTags: `devchallenge`, `hf26challenge`, `ai`, `webdev` · Author: **taqui**\n\nCommunity buzz: **27** points, **7** comments, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass           The...\n\nTags: `devchallenge`, `hf26challenge`, `ai`, `webdev` · Autor: **taqui**\n\nRepercussão: **27** pontos, **7** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "opensource",
+      "emoji": "💚",
+      "sources": [
+        {
+          "title": "Buy This, Not That, Drop This There” - I Made It Make Sense",
+          "url": "https://dev.to/taqui/buy-this-not-that-drop-this-there-i-made-it-make-sense-336p",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "TrailSafe: How Open-Source AI Rescues Solo Hikers When Cell Signal Dies 🏔️",
+      "title_pt": "TrailSafe: How Open-Source AI Rescues Solo Hikers When Cell Signal Dies 🏔️",
+      "body_en": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...\n\nTags: `devchallenge`, `hf26challenge`, `tabpfn`, `temporal` · Author: **kakeroth**\n\nCommunity buzz: **27** points, **1** comments, via **Devto**. Check the original source below for the full story.",
+      "body_pt": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...\n\nTags: `devchallenge`, `hf26challenge`, `tabpfn`, `temporal` · Autor: **kakeroth**\n\nRepercussão: **27** pontos, **1** comentários, via **Devto**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "opensource",
+      "emoji": "💚",
+      "sources": [
+        {
+          "title": "TrailSafe: How Open-Source AI Rescues Solo Hikers When Cell Signal Dies 🏔️",
+          "url": "https://dev.to/kakeroth/trailsafe-how-open-source-ai-rescues-solo-hikers-when-cell-signal-dies-229p",
+          "source": "devto"
+        }
+      ]
+    },
+    {
+      "title_en": "cathrynlavery/diagram-design",
+      "title_pt": "cathrynlavery/diagram-design",
+      "body_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nTags: `html`\n\nCommunity buzz: **1,083** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nTags: `html`\n\nRepercussão: **1,083** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "tools",
+      "emoji": "🛠️",
+      "sources": [
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "Alishahryar1/free-claude-code",
+      "title_pt": "Alishahryar1/free-claude-code",
+      "body_en": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)\n\nTags: `python`\n\nCommunity buzz: **461** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)\n\nTags: `python`\n\nRepercussão: **461** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "tools",
+      "emoji": "🛠️",
+      "sources": [
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "How big is a Git commit?",
+      "title_pt": "How big is a Git commit?",
+      "body_en": "**How big is a Git commit?** caught attention in the tools & productivity space today.\n\nAuthor: **theanonymousone**\n\nCommunity buzz: **74** points, **29** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**How big is a Git commit?** chamou atenção no mundo de ferramentas & produtividade hoje.\n\nAutor: **theanonymousone**\n\nRepercussão: **74** pontos, **29** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "tools",
+      "emoji": "🛠️",
+      "sources": [
+        {
+          "title": "How big is a Git commit?",
+          "url": "https://ratfactor.com/cards/git-commit-size",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "repowise-dev/repowise",
+      "title_pt": "repowise-dev/repowise",
+      "body_en": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.\n\nTags: `python`\n\nCommunity buzz: **68** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.\n\nTags: `python`\n\nRepercussão: **68** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "tools",
+      "emoji": "🛠️",
+      "sources": [
+        {
+          "title": "repowise-dev/repowise",
+          "url": "https://github.com/repowise-dev/repowise",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "boykopovar/AnyPS5",
+      "title_pt": "boykopovar/AnyPS5",
+      "body_en": "Tool for automatic PS5 executables porting to Linux and Windows\n\nTags: `c++`\n\nCommunity buzz: **3,977** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "Tool for automatic PS5 executables porting to Linux and Windows\n\nTags: `c++`\n\nRepercussão: **3,977** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "general",
+      "emoji": "📌",
+      "sources": [
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "storytold/artcraft",
+      "title_pt": "storytold/artcraft",
+      "body_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\nTags: `rust`\n\nCommunity buzz: **2,956** points, via **Github Trending**. Check the original source below for the full story.",
+      "body_pt": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\nTags: `rust`\n\nRepercussão: **2,956** pontos, via **Github Trending**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "general",
+      "emoji": "📌",
+      "sources": [
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "source": "github_trending"
+        }
+      ]
+    },
+    {
+      "title_en": "2D Vehicles",
+      "title_pt": "2D Vehicles",
+      "body_en": "**2D Vehicles** caught attention in the general tech space today.\n\nAuthor: **Michelangelo11**\n\nCommunity buzz: **589** points, **113** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**2D Vehicles** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **Michelangelo11**\n\nRepercussão: **589** pontos, **113** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "general",
+      "emoji": "📌",
+      "sources": [
+        {
+          "title": "2D Vehicles",
+          "url": "https://patkerr.co.uk/2d-vehicles/",
+          "source": "hackernews"
+        }
+      ]
+    },
+    {
+      "title_en": "The Lightbulb Computer",
+      "title_pt": "The Lightbulb Computer",
+      "body_en": "**The Lightbulb Computer** caught attention in the general tech space today.\n\nAuthor: **oskarth**\n\nCommunity buzz: **557** points, **93** comments, via **Hackernews**. Check the original source below for the full story.",
+      "body_pt": "**The Lightbulb Computer** chamou atenção no mundo de tecnologia em geral hoje.\n\nAutor: **oskarth**\n\nRepercussão: **557** pontos, **93** comentários, via **Hackernews**. Confira a fonte original abaixo para a matéria completa.",
+      "category": "general",
+      "emoji": "📌",
+      "sources": [
+        {
+          "title": "The Lightbulb Computer",
+          "url": "https://lightbulbcomputer.com/",
+          "source": "hackernews"
+        }
+      ]
+    }
+  ],
+  "digest_count": 41,
+  "raw_article_count": 131,
+  "sources": [
+    "devto",
+    "github_trending",
+    "hackernews",
+    "lobsters"
+  ],
+  "articles": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "github_trending",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 25585,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:26.793511+00:00",
+      "language": "en"
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "source": "github_trending",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "author": "",
+      "tags": [
+        "c++"
+      ],
+      "category": "general",
+      "score": 3977,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:26.793942+00:00",
+      "language": "en"
+    },
+    {
+      "title": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "source": "github_trending",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 2956,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:26.794359+00:00",
+      "language": "en"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "github_trending",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 1215,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.966704+00:00",
+      "language": "en"
+    },
+    {
+      "title": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "source": "github_trending",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 1097,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.966336+00:00",
+      "language": "en"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "github_trending",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "author": "",
+      "tags": [
+        "html"
+      ],
+      "category": "tools",
+      "score": 1083,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:26.794833+00:00",
+      "language": "en"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "github_trending",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 872,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:26.795233+00:00",
+      "language": "en"
+    },
+    {
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "source": "hackernews",
+      "description": "",
+      "author": "Michelangelo11",
+      "tags": [],
+      "category": "general",
+      "score": 589,
+      "comments_count": 113,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:23.427148+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "source": "hackernews",
+      "description": "",
+      "author": "oskarth",
+      "tags": [],
+      "category": "general",
+      "score": 557,
+      "comments_count": 93,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:24.487196+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Bot traffic from Yandex",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "source": "hackernews",
+      "description": "",
+      "author": "walrus01",
+      "tags": [],
+      "category": "general",
+      "score": 542,
+      "comments_count": 206,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:24.880924+00:00",
+      "language": "en"
+    },
+    {
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "source": "github_trending",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "author": "",
+      "tags": [
+        "jupyter notebook"
+      ],
+      "category": "general",
+      "score": 541,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:26.796097+00:00",
+      "language": "en"
+    },
+    {
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "github_trending",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 536,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.965920+00:00",
+      "language": "en"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "github_trending",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 526,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:29.991456+00:00",
+      "language": "en"
+    },
+    {
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "github_trending",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 511,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.967565+00:00",
+      "language": "en"
+    },
+    {
+      "title": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "source": "github_trending",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 500,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:29.993093+00:00",
+      "language": "en"
+    },
+    {
+      "title": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "source": "github_trending",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "author": "",
+      "tags": [
+        "assembly"
+      ],
+      "category": "general",
+      "score": 496,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:26.796561+00:00",
+      "language": "en"
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
+      "source": "hackernews",
+      "description": "",
+      "author": "JumpCrisscross",
+      "tags": [],
+      "category": "general",
+      "score": 495,
+      "comments_count": 164,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:23.801145+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "github_trending",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "tools",
+      "score": 461,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.965525+00:00",
+      "language": "en"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "github_trending",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 443,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.970263+00:00",
+      "language": "en"
+    },
+    {
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "source": "hackernews",
+      "description": "",
+      "author": "defly",
+      "tags": [],
+      "category": "general",
+      "score": 442,
+      "comments_count": 537,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:23.628778+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "source": "hackernews",
+      "description": "",
+      "author": "softwaredoug",
+      "tags": [],
+      "category": "general",
+      "score": 432,
+      "comments_count": 97,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:24.005555+00:00",
+      "language": "en"
+    },
+    {
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "source": "github_trending",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "ai",
+      "score": 410,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:30.816196+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "source": "hackernews",
+      "description": "",
+      "author": "ForHackernews",
+      "tags": [],
+      "category": "general",
+      "score": 357,
+      "comments_count": 168,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:23.240869+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Documents add to evidence in climate deception case against ExxonMobil",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "source": "hackernews",
+      "description": "",
+      "author": "gumby",
+      "tags": [],
+      "category": "general",
+      "score": 342,
+      "comments_count": 179,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:25.070975+00:00",
+      "language": "en"
+    },
+    {
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
+      "source": "hackernews",
+      "description": "",
+      "author": "timschumi",
+      "tags": [],
+      "category": "general",
+      "score": 337,
+      "comments_count": 124,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:20.876019+00:00",
+      "language": "en"
+    },
+    {
+      "title": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "source": "github_trending",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 314,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:26.795607+00:00",
+      "language": "en"
+    },
+    {
+      "title": "CopilotKit/OpenIntelligentUI",
+      "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+      "source": "github_trending",
+      "description": "Open-Source Generative UI Framework",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 309,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:29.992713+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "source": "hackernews",
+      "description": "",
+      "author": "edent",
+      "tags": [],
+      "category": "general",
+      "score": 307,
+      "comments_count": 163,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:21.653614+00:00",
+      "language": "en"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "github_trending",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 297,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.913019+00:00",
+      "language": "en"
+    },
+    {
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "source": "hackernews",
+      "description": "",
+      "author": "basilikum",
+      "tags": [],
+      "category": "general",
+      "score": 256,
+      "comments_count": 234,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:24.289902+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The RAM shortage is bringing back DDR4",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "source": "hackernews",
+      "description": "",
+      "author": "1potato",
+      "tags": [],
+      "category": "general",
+      "score": 209,
+      "comments_count": 197,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:22.587437+00:00",
+      "language": "en"
+    },
+    {
+      "title": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "source": "github_trending",
+      "description": "A full-featured download manager.",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 176,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:29.993459+00:00",
+      "language": "en"
+    },
+    {
+      "title": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "source": "github_trending",
+      "description": "Useful tool to track location or mobile number",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 171,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.967086+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github_trending",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 167,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.969878+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "source": "hackernews",
+      "description": "",
+      "author": "arusekk",
+      "tags": [],
+      "category": "general",
+      "score": 158,
+      "comments_count": 93,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:20.512955+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "source": "hackernews",
+      "description": "",
+      "author": "Anon84",
+      "tags": [],
+      "category": "general",
+      "score": 150,
+      "comments_count": 184,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:20.155201+00:00",
+      "language": "en"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "github_trending",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "web",
+      "score": 150,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:29.992348+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "source": "hackernews",
+      "description": "",
+      "author": "drogus",
+      "tags": [],
+      "category": "general",
+      "score": 146,
+      "comments_count": 53,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:22.220791+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "source": "github_trending",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 128,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.915105+00:00",
+      "language": "en"
+    },
+    {
+      "title": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "source": "github_trending",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 126,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.969520+00:00",
+      "language": "en"
+    },
+    {
+      "title": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "source": "github_trending",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 117,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.969156+00:00",
+      "language": "en"
+    },
+    {
+      "title": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "source": "github_trending",
+      "description": "self-hosted, distributed Durable Objects",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "web",
+      "score": 110,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:30.817783+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "source": "hackernews",
+      "description": "",
+      "author": "verdagon",
+      "tags": [],
+      "category": "general",
+      "score": 97,
+      "comments_count": 42,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:21.255194+00:00",
+      "language": "en"
+    },
+    {
+      "title": "microsoft/TRELLIS.2",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "source": "github_trending",
+      "description": "Native and Compact Structured Latents for 3D Generation",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 96,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.968319+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "url": "https://betterwispr.com/",
+      "source": "hackernews",
+      "description": "",
+      "author": "kartik017",
+      "tags": [],
+      "category": "opensource",
+      "score": 88,
+      "comments_count": 58,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:21.825938+00:00",
+      "language": "en"
+    },
+    {
+      "title": "HakanSeven12/OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "source": "github_trending",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 84,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:30.817415+00:00",
+      "language": "en"
+    },
+    {
+      "title": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "source": "github_trending",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 81,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.916238+00:00",
+      "language": "en"
+    },
+    {
+      "title": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "source": "github_trending",
+      "description": "A WiFi security auditing software",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "security",
+      "score": 75,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:30.816582+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "source": "github_trending",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 75,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.917468+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How big is a Git commit?",
+      "url": "https://ratfactor.com/cards/git-commit-size",
+      "source": "hackernews",
+      "description": "",
+      "author": "theanonymousone",
+      "tags": [],
+      "category": "tools",
+      "score": 74,
+      "comments_count": 29,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:25.607174+00:00",
+      "language": "en"
+    },
+    {
+      "title": "QuantumNous/new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "source": "github_trending",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 72,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.913461+00:00",
+      "language": "en"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "github_trending",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "ai",
+      "score": 71,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:29.991842+00:00",
+      "language": "en"
+    },
+    {
+      "title": "No Man Is an Island",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "source": "lobsters",
+      "description": "",
+      "author": "facundoolano",
+      "tags": [
+        "philosophy",
+        "vibecoding"
+      ],
+      "category": "general",
+      "score": 70,
+      "comments_count": 15,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357520+00:00",
+      "language": "en"
+    },
+    {
+      "title": "repowise-dev/repowise",
+      "url": "https://github.com/repowise-dev/repowise",
+      "source": "github_trending",
+      "description": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "tools",
+      "score": 68,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.968779+00:00",
+      "language": "en"
+    },
+    {
+      "title": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "source": "github_trending",
+      "description": "WhatsApp MCP server",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 63,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.917846+00:00",
+      "language": "en"
+    },
+    {
+      "title": "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c",
+      "url": "https://sebsite.pw/w/20261009-strtod.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "seb",
+      "tags": [
+        "c"
+      ],
+      "category": "general",
+      "score": 63,
+      "comments_count": 29,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357494+00:00",
+      "language": "en"
+    },
+    {
+      "title": "BishopFox/sliver",
+      "url": "https://github.com/BishopFox/sliver",
+      "source": "github_trending",
+      "description": "Adversary Emulation Framework",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "frameworks",
+      "score": 60,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.914250+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "github_trending",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "ai",
+      "score": 59,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.967935+00:00",
+      "language": "en"
+    },
+    {
+      "title": "MagicMirrorOrg/MagicMirror",
+      "url": "https://github.com/MagicMirrorOrg/MagicMirror",
+      "source": "github_trending",
+      "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 56,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:28.873440+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Rat's Register Allocator",
+      "url": "https://hexrat.cc/pages/blog/2026_10_07",
+      "source": "hackernews",
+      "description": "",
+      "author": "mpweiher",
+      "tags": [],
+      "category": "general",
+      "score": 50,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:25.779788+00:00",
+      "language": "en"
+    },
+    {
+      "title": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "source": "github_trending",
+      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "mobile",
+      "score": 48,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.914715+00:00",
+      "language": "en"
+    },
+    {
+      "title": "greensock/GSAP",
+      "url": "https://github.com/greensock/GSAP",
+      "source": "github_trending",
+      "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 47,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:28.873792+00:00",
+      "language": "en"
+    },
+    {
+      "title": "liyupi/ai-guide",
+      "url": "https://github.com/liyupi/ai-guide",
+      "source": "github_trending",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "ai",
+      "score": 44,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:28.873040+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I'm still around.. I'm just not writing here",
+      "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
+      "source": "lobsters",
+      "description": "",
+      "author": "jcd",
+      "tags": [
+        "culture"
+      ],
+      "category": "general",
+      "score": 42,
+      "comments_count": 16,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357469+00:00",
+      "language": "en"
+    },
+    {
+      "title": "🐾 DEV Pet Corner #1: Show Us Your Pets!",
+      "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-1-show-us-your-pets-39n6",
+      "source": "devto",
+      "description": "TL;DR  Welcome to DEV Pet Corner, a new weekly series where we take a little break from tech and...",
+      "author": "hemapriya_kanagala",
+      "tags": [
+        "discuss",
+        "community",
+        "pets",
+        "watercooler"
+      ],
+      "category": "general",
+      "score": 37,
+      "comments_count": 13,
+      "reading_time_min": 3,
+      "published_at": "2026-10-11T13:52:25Z",
+      "fetched_at": "2026-10-11T18:33:19.809132+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "source": "hackernews",
+      "description": "",
+      "author": "epestr",
+      "tags": [],
+      "category": "general",
+      "score": 37,
+      "comments_count": 14,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:21.052840+00:00",
+      "language": "en"
+    },
+    {
+      "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+      "source": "hackernews",
+      "description": "",
+      "author": "ljf",
+      "tags": [],
+      "category": "general",
+      "score": 37,
+      "comments_count": 15,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:22.409043+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+      "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
+      "source": "hackernews",
+      "description": "",
+      "author": "sinnsro",
+      "tags": [],
+      "category": "general",
+      "score": 36,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:25.259573+00:00",
+      "language": "en"
+    },
+    {
+      "title": "What's Wrong with GitHub",
+      "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "tusharhero",
+      "tags": [
+        "vcs"
+      ],
+      "category": "tools",
+      "score": 36,
+      "comments_count": 25,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357445+00:00",
+      "language": "en"
+    },
+    {
+      "title": "💅 Keyboard Makeover",
+      "url": "https://dev.to/annavi11arrea1/keyboard-makeover-i6a",
+      "source": "devto",
+      "description": "I have had this interesting piece of psychedelic looking vinyl for some time. Today I finally found a...",
+      "author": "annavi11arrea1",
+      "tags": [
+        "mentalhealth",
+        "craft"
+      ],
+      "category": "general",
+      "score": 35,
+      "comments_count": 23,
+      "reading_time_min": 1,
+      "published_at": "2026-10-11T02:25:47Z",
+      "fetched_at": "2026-10-11T18:33:19.809158+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "source": "github_trending",
+      "description": "Heterogeneous GPU Sharing on Kubernetes",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "devops",
+      "score": 35,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.915852+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How to Build Wealth as a Career Person",
+      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+      "source": "hackernews",
+      "description": "",
+      "author": "doppp",
+      "tags": [],
+      "category": "career",
+      "score": 33,
+      "comments_count": 24,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:20.336596+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Iframes that finally fit their content",
+      "url": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "abhin4v",
+      "tags": [
+        "css",
+        "web"
+      ],
+      "category": "web",
+      "score": 31,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357523+00:00",
+      "language": "en"
+    },
+    {
+      "title": "FarbeDex: a colour picker that only works outside (and never needs the internet)",
+      "url": "https://dev.to/dronzer2code/farbedex-a-colour-picker-that-only-works-outside-and-never-needs-the-internet-4b9o",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "author": "dronzer2code",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "android"
+      ],
+      "category": "opensource",
+      "score": 30,
+      "comments_count": 0,
+      "reading_time_min": 7,
+      "published_at": "2026-10-11T05:35:12Z",
+      "fetched_at": "2026-10-11T18:33:19.809170+00:00",
+      "language": "en"
+    },
+    {
+      "title": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "source": "github_trending",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "author": "",
+      "tags": [
+        "python"
+      ],
+      "category": "languages",
+      "score": 28,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:27.970629+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Buy This, Not That, Drop This There” - I Made It Make Sense",
+      "url": "https://dev.to/taqui/buy-this-not-that-drop-this-there-i-made-it-make-sense-336p",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass           The...",
+      "author": "taqui",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "ai",
+        "webdev"
+      ],
+      "category": "opensource",
+      "score": 27,
+      "comments_count": 7,
+      "reading_time_min": 6,
+      "published_at": "2026-10-10T20:47:01Z",
+      "fetched_at": "2026-10-11T18:33:19.809178+00:00",
+      "language": "en"
+    },
+    {
+      "title": "TrailSafe: How Open-Source AI Rescues Solo Hikers When Cell Signal Dies 🏔️",
+      "url": "https://dev.to/kakeroth/trailsafe-how-open-source-ai-rescues-solo-hikers-when-cell-signal-dies-229p",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "author": "kakeroth",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "tabpfn",
+        "temporal"
+      ],
+      "category": "opensource",
+      "score": 27,
+      "comments_count": 1,
+      "reading_time_min": 7,
+      "published_at": "2026-10-11T08:25:31Z",
+      "fetched_at": "2026-10-11T18:33:19.809203+00:00",
+      "language": "en"
+    },
+    {
+      "title": "getnao/nao",
+      "url": "https://github.com/getnao/nao",
+      "source": "github_trending",
+      "description": "👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone",
+      "author": "",
+      "tags": [
+        "typescript"
+      ],
+      "category": "tools",
+      "score": 27,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:29.993814+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Autumn-27/ScopeSentry",
+      "url": "https://github.com/Autumn-27/ScopeSentry",
+      "source": "github_trending",
+      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "security",
+      "score": 27,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.913847+00:00",
+      "language": "en"
+    },
+    {
+      "title": "chaolucky18/xuexitongScript",
+      "url": "https://github.com/chaolucky18/xuexitongScript",
+      "source": "github_trending",
+      "description": "学习通自动刷课脚本",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 25,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:28.874171+00:00",
+      "language": "en"
+    },
+    {
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "source": "hackernews",
+      "description": "",
+      "author": "pseudolus",
+      "tags": [],
+      "category": "general",
+      "score": 24,
+      "comments_count": 10,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:22.803563+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Going outside was never my problem. Saying hello was.",
+      "url": "https://dev.to/bennykillua/going-outside-was-never-my-problem-saying-hello-was-570i",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "author": "bennykillua",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "touchgrass",
+        "ai"
+      ],
+      "category": "opensource",
+      "score": 22,
+      "comments_count": 1,
+      "reading_time_min": 8,
+      "published_at": "2026-10-11T12:14:05Z",
+      "fetched_at": "2026-10-11T18:33:19.809221+00:00",
+      "language": "en"
+    },
+    {
+      "title": "MiaAI-Lab/sparkDash",
+      "url": "https://github.com/MiaAI-Lab/sparkDash",
+      "source": "github_trending",
+      "description": "sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard",
+      "author": "",
+      "tags": [
+        "javascript"
+      ],
+      "category": "web",
+      "score": 22,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:28.872653+00:00",
+      "language": "en"
+    },
+    {
+      "title": "I Built an AI Gardening App That Tells Me to Put the Laptop Down",
+      "url": "https://dev.to/shubhradev/i-built-an-ai-gardening-app-that-tells-me-to-put-the-laptop-down-1o93",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass  Coding is my...",
+      "author": "shubhradev",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "showdev"
+      ],
+      "category": "opensource",
+      "score": 20,
+      "comments_count": 16,
+      "reading_time_min": 9,
+      "published_at": "2026-10-11T12:54:29Z",
+      "fetched_at": "2026-10-11T18:33:19.809192+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Kiesel Devlog #15: Release 0.4.0",
+      "url": "https://linus.dev/posts/kiesel-devlog-15/",
+      "source": "lobsters",
+      "description": "",
+      "author": "FedericoSchonborn",
+      "tags": [
+        "javascript",
+        "zig"
+      ],
+      "category": "languages",
+      "score": 20,
+      "comments_count": 3,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357509+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Chhaya: A Shade-First Walking Map for Tropical Cities",
+      "url": "https://dev.to/pritam_patra_429a25dedae6/chhaya-a-shade-first-walking-map-for-tropical-cities-22f0",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass   TL;DR:...",
+      "author": "pritam_patra_429a25dedae6",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "category": "opensource",
+      "score": 18,
+      "comments_count": 2,
+      "reading_time_min": 12,
+      "published_at": "2026-10-10T21:58:00Z",
+      "fetched_at": "2026-10-11T18:33:19.809199+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How shredding JSON is giving Logfire 1000x query speedups",
+      "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+      "source": "lobsters",
+      "description": "",
+      "author": "typesanitizer",
+      "tags": [
+        "databases",
+        "performance"
+      ],
+      "category": "frameworks",
+      "score": 18,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357483+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Inside a 1980s filter chip that uses switched capacitors",
+      "url": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "calvin",
+      "tags": [
+        "hardware",
+        "historical",
+        "reversing"
+      ],
+      "category": "mobile",
+      "score": 18,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357511+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Missing Piece: Why AI Models Hallucinate Answers When They Should Abstain",
+      "url": "https://dev.to/shreyansh_agrahari_2009db/the-missing-piece-why-ai-models-hallucinate-answers-when-they-should-abstain-403",
+      "source": "devto",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge   \"The answer isn't always there. Does...",
+      "author": "shreyansh_agrahari_2009db",
+      "tags": [
+        "devchallenge",
+        "kagglechallenge",
+        "ai",
+        "machinelearning"
+      ],
+      "category": "tools",
+      "score": 17,
+      "comments_count": 2,
+      "reading_time_min": 8,
+      "published_at": "2026-10-10T23:22:46Z",
+      "fetched_at": "2026-10-11T18:33:19.809210+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Why 'externalized' proofs of cyclic trait impls does not work",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
+      "source": "lobsters",
+      "description": "",
+      "author": "fanf",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 17,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357530+00:00",
+      "language": "en"
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "url": "https://github.com/rogerbinns/apsw",
+      "source": "hackernews",
+      "description": "",
+      "author": "tosh",
+      "tags": [],
+      "category": "languages",
+      "score": 16,
+      "comments_count": 3,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:20.687637+00:00",
+      "language": "en"
+    },
+    {
+      "title": "larksuite/cli",
+      "url": "https://github.com/larksuite/cli",
+      "source": "github_trending",
+      "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "tools",
+      "score": 15,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.915482+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Side Quests Grow on Trees (Leave Them Where They Grow) 🌿",
+      "url": "https://dev.to/anchildress1/side-quests-grow-on-trees-leave-them-where-they-grow-84e",
+      "source": "devto",
+      "description": "A kids' plant treasure hunt for Android with on-device BioCLIP and TinyCLIP, Gemma 4 hints built locally, and 0 of 267 toxic test photos passing as a match.",
+      "author": "anchildress1",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "android",
+        "gemma"
+      ],
+      "category": "mobile",
+      "score": 14,
+      "comments_count": 0,
+      "reading_time_min": 15,
+      "published_at": "2026-10-11T01:16:36Z",
+      "fetched_at": "2026-10-11T18:33:19.809165+00:00",
+      "language": "en"
+    },
+    {
+      "title": "A hash chain proves the ordering. Four attacks prove it's not enough.",
+      "url": "https://dev.to/slabb/a-hash-chain-proves-the-ordering-four-attacks-prove-its-not-enough-59oe",
+      "source": "devto",
+      "description": "Randal L. Schwartz published a gate-attack catalog built from real failures. I replayed it against my reconciliation layer as a test suite. The score, not the slogan.",
+      "author": "slabb",
+      "tags": [
+        "ai",
+        "security",
+        "python",
+        "testing"
+      ],
+      "category": "languages",
+      "score": 14,
+      "comments_count": 23,
+      "reading_time_min": 7,
+      "published_at": "2026-10-10T20:56:21Z",
+      "fetched_at": "2026-10-11T18:33:19.809217+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
+      "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
+      "source": "hackernews",
+      "description": "",
+      "author": "peter_d_sherman",
+      "tags": [],
+      "category": "general",
+      "score": 14,
+      "comments_count": 4,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:22.002431+00:00",
+      "language": "en"
+    },
+    {
+      "title": "BrandonKowalski/slot",
+      "url": "https://github.com/BrandonKowalski/slot",
+      "source": "github_trending",
+      "description": "A bespoke, Game Boy-centric CFW for the RG SP.",
+      "author": "",
+      "tags": [
+        "rust"
+      ],
+      "category": "general",
+      "score": 14,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:30.816934+00:00",
+      "language": "en"
+    },
+    {
+      "title": "SNTPings, draw on a canvas using ICMPv6",
+      "url": "https://pings.utwente.io/",
+      "source": "lobsters",
+      "description": "",
+      "author": "Levitating",
+      "tags": [
+        "education",
+        "networking"
+      ],
+      "category": "general",
+      "score": 14,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357543+00:00",
+      "language": "en"
+    },
+    {
+      "title": "RevSofia, a Car Meetup app that people will love to use",
+      "url": "https://dev.to/alexgeorgiev17/car-meets-in-sofia-get-planned-in-chaos-so-i-made-an-open-model-read-the-chat-for-us-24nm",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "author": "alexgeorgiev17",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "ai",
+        "opensource"
+      ],
+      "category": "opensource",
+      "score": 13,
+      "comments_count": 2,
+      "reading_time_min": 7,
+      "published_at": "2026-10-10T19:29:45Z",
+      "fetched_at": "2026-10-11T18:33:19.809196+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Most Dangerous Button in Your App Is “Try Again”",
+      "url": "https://dev.to/robertadam987_/the-most-dangerous-button-in-your-app-is-try-again-1834",
+      "source": "devto",
+      "description": "A user clicks Pay.  The spinner runs for ten seconds.  Then your app displays:   Something went...",
+      "author": "robertadam987_",
+      "tags": [
+        "webdev",
+        "backend",
+        "programming",
+        "discuss"
+      ],
+      "category": "general",
+      "score": 13,
+      "comments_count": 4,
+      "reading_time_min": 5,
+      "published_at": "2026-10-11T05:28:49Z",
+      "fetched_at": "2026-10-11T18:33:19.809270+00:00",
+      "language": "en"
+    },
+    {
+      "title": "MongoDB 8.3's arrayIndexAs cuts a map-with-index workaround's overhead by up to 31%",
+      "url": "https://dev.to/alexgeorgiev17/mongodb-83s-arrayindexas-cuts-a-map-with-index-workarounds-overhead-by-up-to-31-409p",
+      "source": "devto",
+      "description": "I benchmarked MongoDB 8.3's new arrayIndexAs against the range-and-arrayElemAt workaround it replaces: 134ms versus 102ms server-side at 320,000 elements, a gap that shrinks to about 5% once ten clients compete for the same CPU cores.",
+      "author": "alexgeorgiev17",
+      "tags": [
+        "mongodb",
+        "database",
+        "performance",
+        "devops"
+      ],
+      "category": "frameworks",
+      "score": 11,
+      "comments_count": 1,
+      "reading_time_min": 6,
+      "published_at": "2026-10-11T10:00:00Z",
+      "fetched_at": "2026-10-11T18:33:19.809232+00:00",
+      "language": "en"
+    },
+    {
+      "title": "How to Make Playwright Autonomous (Without Letting an AI Agent Run Wild)",
+      "url": "https://dev.to/orbitpickle307/how-to-make-playwright-autonomous-without-letting-an-ai-agent-run-wild-3ck4",
+      "source": "devto",
+      "description": "Playwright is very good at following instructions.  Tell it to click a button, it clicks the button....",
+      "author": "orbitpickle307",
+      "tags": [
+        "playwright",
+        "ai",
+        "javascript",
+        "testing"
+      ],
+      "category": "ai",
+      "score": 11,
+      "comments_count": 4,
+      "reading_time_min": 10,
+      "published_at": "2026-10-10T21:14:46Z",
+      "fetched_at": "2026-10-11T18:33:19.809246+00:00",
+      "language": "en"
+    },
+    {
+      "title": "JungleDex: Turning My Childhood Pokémon Dream Into a Real-World Adventure 🌿",
+      "url": "https://dev.to/ritik1008/jungledex-turning-my-childhood-pokemon-dream-into-a-real-world-adventure-4k44",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "author": "ritik1008",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "category": "opensource",
+      "score": 11,
+      "comments_count": 1,
+      "reading_time_min": 4,
+      "published_at": "2026-10-11T13:03:29Z",
+      "fetched_at": "2026-10-11T18:33:19.809266+00:00",
+      "language": "en"
+    },
+    {
+      "title": "The Wild West of polyglot docs sites",
+      "url": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+      "source": "hackernews",
+      "description": "",
+      "author": "zdw",
+      "tags": [],
+      "category": "general",
+      "score": 11,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:25.431594+00:00",
+      "language": "en"
+    },
+    {
+      "title": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "source": "github_trending",
+      "description": "📂 Web File Browser",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "web",
+      "score": 11,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.916612+00:00",
+      "language": "en"
+    },
+    {
+      "title": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "source": "github_trending",
+      "description": "Yet another WebUI for Nginx",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "devops",
+      "score": 11,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.917094+00:00",
+      "language": "en"
+    },
+    {
+      "title": "FRAGLINE: an offline neon arena shooter that turns one laptop and a Wi-Fi network into a LAN party",
+      "url": "https://dev.to/ipsamurai/fragline-an-offline-neon-arena-shooter-that-turns-one-laptop-and-a-wi-fi-network-into-a-lan-party-3jk6",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "author": "ipsamurai",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gamedev",
+        "godot"
+      ],
+      "category": "opensource",
+      "score": 10,
+      "comments_count": 3,
+      "reading_time_min": 3,
+      "published_at": "2026-10-11T06:15:27Z",
+      "fetched_at": "2026-10-11T18:33:19.809214+00:00",
+      "language": "en"
+    },
+    {
+      "title": "fish2018/pansou",
+      "url": "https://github.com/fish2018/pansou",
+      "source": "github_trending",
+      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。https://t.me/s/webhtv",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "devops",
+      "score": 10,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.918615+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Why Strava Ruins Your Stride: I Built a Zero-Screen 3D Audio Run Club Pacer with Gemma 2 and OpenStreetMap",
+      "url": "https://dev.to/ish1416/why-strava-ruins-your-stride-i-built-a-zero-screen-3d-audio-run-club-pacer-with-gemma-2-and-3mjn",
+      "source": "devto",
+      "description": "PaceCast is an open-source zero-screen AI audio running companion and 3D autumn canopy engine powered by Google Gemma 2 and OpenStreetMap.",
+      "author": "ish1416",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "opensource"
+      ],
+      "category": "opensource",
+      "score": 9,
+      "comments_count": 1,
+      "reading_time_min": 6,
+      "published_at": "2026-10-11T09:01:37Z",
+      "fetched_at": "2026-10-11T18:33:19.809263+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
+      "url": "https://blog.scientific-python.org/numpy/searchsorted/",
+      "source": "lobsters",
+      "description": "",
+      "author": "itamarst",
+      "tags": [
+        "performance"
+      ],
+      "category": "general",
+      "score": 9,
+      "comments_count": 9,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357500+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+      "url": "https://arxiv.org/html/2610.05978v1",
+      "source": "lobsters",
+      "description": "<p>The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale. The prevailing thought in the field has been that processing raw bytes is computationally inefficient because the sequences are substantially longer. A typical subword contains around four bytes. The authors argue that this extra sequence length is actually a feature that provides useful additional computation under the same parameter budget. By implementing token-superposition training and hash embeddings, the byte models consistently hit lower optimal loss than subword models at matched parameter counts.</p>\n<p>It's also interesting to see how the byte model handles the lack of explicit text abstractions. We usually rely on tokenizers to group characters into meaningful chunks, but it turns out that byte Transformers implicitly develop their own local abstractions without needing specialized hierarchical architectures. When tested on a copying task, the model attention concentrated heavily on a small set of specific segmentation positions rather than attending uniformly across the text. The researchers proved the strength of these internal structures by freezing up to a quarter of the intermediate layers and forcing them to process only these locally aggregated representations. The model maintained its downstream performance without any additional training, proving that the hierarchy of local abstraction and global reasoning emerges naturally within a standard Transformer.</p>\n<p>Also, per-byte loss distribution showed massive variance compared to subword models. A huge number of byte positions have near-zero loss showing that the model is highly confident about most bytes in a word and only struggles near the boundaries of its learned local structures where the actual information density lies. This creates a massive opportunity for speculative decoding. Because so many bytes are predictable continuations, a small drafting model can accurately guess large chunks of the sequence. The authors found that a byte-level drafting model gets roughly 3.4 times more accepted tokens per target forward pass than a subword equivalent which easily offsets the sequential overhead of processing individual bytes.</p>\n<p>In empirical tests, byte Transformers showed massive improvements in tasks requiring fine-grained perception. They achieved around a 40% relative improvement on CUTE word manipulation scores and a 20% boost on OCRBench compared to subword models. The implications for future language model design is that we might be nearing the end of rigid subword vocabularies. Sequence length, learned abstractions, and compute allocation are now closely connected dimensions for future architectures. Instead of building complex hierarchical networks to compress bytes, designers can use flat Transformers with sparse mixture of experts to reduce activated computation while letting the model allocate its compute dynamically to the hardest parts of a text. This could also drastically improve multimodal models because byte-level representations align much better with fine-grained visual features than arbitrary subword tokens do.</p>\n",
+      "author": "Yogthos",
+      "tags": [
+        "ai"
+      ],
+      "category": "ai",
+      "score": 8,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357538+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Revisiting SiFuture with Kof",
+      "url": "https://dev.to/renanfranca/revisiting-sifuture-with-kof-420h",
+      "source": "devto",
+      "description": "Revisiting my Java ME space shooter with Kof, preserving its gameplay while exploring new environments.",
+      "author": "renanfranca",
+      "tags": [
+        "gamedev",
+        "showdev",
+        "java",
+        "programming"
+      ],
+      "category": "languages",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 2,
+      "published_at": "2026-10-10T19:34:36Z",
+      "fetched_at": "2026-10-11T18:33:19.809251+00:00",
+      "language": "en"
+    },
+    {
+      "title": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "source": "github_trending",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "author": "",
+      "tags": [
+        "go"
+      ],
+      "category": "ai",
+      "score": 7,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:31.918238+00:00",
+      "language": "en"
+    },
+    {
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
+      "source": "devto",
+      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
+      "author": "randalschwartz",
+      "tags": [
+        "ai",
+        "programming",
+        "unix",
+        "architecture"
+      ],
+      "category": "tools",
+      "score": 6,
+      "comments_count": 17,
+      "reading_time_min": 22,
+      "published_at": "2026-10-11T00:59:52Z",
+      "fetched_at": "2026-10-11T18:33:19.809174+00:00",
+      "language": "en"
+    },
+    {
+      "title": "\"we should go out this weekend\": I built a Discord member that holds the clock until we're outside",
+      "url": "https://dev.to/arqamwd/we-should-go-out-this-weekend-i-built-a-discord-member-that-holds-the-clock-until-were-outside-10ek",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass   TL;DR....",
+      "author": "arqamwd",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "showdev",
+        "typescript"
+      ],
+      "category": "opensource",
+      "score": 6,
+      "comments_count": 1,
+      "reading_time_min": 12,
+      "published_at": "2026-10-11T17:10:29Z",
+      "fetched_at": "2026-10-11T18:33:19.809243+00:00",
+      "language": "en"
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "source": "hackernews",
+      "description": "",
+      "author": "gregsadetsky",
+      "tags": [],
+      "category": "general",
+      "score": 6,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:24.691609+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Consistency is not a localized property",
+      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+      "source": "lobsters",
+      "description": "",
+      "author": "b--man",
+      "tags": [
+        "ai",
+        "databases",
+        "programming"
+      ],
+      "category": "frameworks",
+      "score": 6,
+      "comments_count": 2,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357506+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Introduction to OpenAI's Decisions API: Building a Remote Job Finder with SerpApi",
+      "url": "https://dev.to/adarshdigievo/introduction-to-openais-decisions-api-building-a-remote-job-finder-with-serpapi-23kd",
+      "source": "devto",
+      "description": "Learn how OpenAI’s Decisions API works by building a remote job finder with SerpApi that filters listings based on your preferences.",
+      "author": "adarshdigievo",
+      "tags": [
+        "ai",
+        "api",
+        "openai",
+        "tutorial"
+      ],
+      "category": "ai",
+      "score": 5,
+      "comments_count": 0,
+      "reading_time_min": 7,
+      "published_at": "2026-10-11T13:34:18Z",
+      "fetched_at": "2026-10-11T18:33:19.809259+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "source": "hackernews",
+      "description": "",
+      "author": "jttnr",
+      "tags": [],
+      "category": "general",
+      "score": 4,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:21.450465+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Arena Allocators in C",
+      "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+      "source": "lobsters",
+      "description": "",
+      "author": "eliasebner",
+      "tags": [
+        "c"
+      ],
+      "category": "general",
+      "score": 4,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357480+00:00",
+      "language": "en"
+    },
+    {
+      "title": "ShutterHunt : A Photographic Quest That Gets You Outside",
+      "url": "https://dev.to/trickell/shutterhunt-a-photographic-quest-that-gets-you-outside-1ahb",
+      "source": "devto",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "author": "trickell",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemmachallenge",
+        "githubcopilot"
+      ],
+      "category": "opensource",
+      "score": 3,
+      "comments_count": 1,
+      "reading_time_min": 7,
+      "published_at": "2026-10-11T16:28:14Z",
+      "fetched_at": "2026-10-11T18:33:19.809225+00:00",
+      "language": "en"
+    },
+    {
+      "title": "JSON Tiles: Fast Analytics on Semi-Structured Data (2021)",
+      "url": "https://db.cit.tum.de/~durner/papers/json-tiles-sigmod21.pdf",
+      "source": "lobsters",
+      "description": "<p>Abstract: Developers often prefer flexibility over upfront schema design, making semi-structured data formats such as JSON increasingly popular. Large amounts of JSON data are therefore stored and analyzed by\nrelational database systems. In existing systems, however, JSON’s lack of a fixed schema results in slow analytics. In this paper, we present JSON tiles, which, without losing the flexibility of JSON, enables relational systems to perform analytics on JSON data at native speed. JSON tiles automatically detects the most important keys and\nextracts them transparently – often achieving scan performance similar to columnar storage. At the same time, JSON tiles is capable of handling heterogeneous and changing data. Furthermore, we\nautomatically collect statistics that enable the query optimizer to find good execution plans. Our experimental evaluation compares against state-of-the-art systems and research proposals and shows that our approach is both robust and efficient.</p>\n",
+      "author": "typesanitizer",
+      "tags": [
+        "databases",
+        "pdf",
+        "performance"
+      ],
+      "category": "data",
+      "score": 3,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357535+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Removing Duplicates from a Simple Dynamic Array for C",
+      "url": "https://dev.to/pauljlucas/removing-duplicates-from-a-simple-dynamic-array-for-c-1mlg",
+      "source": "devto",
+      "description": "Adding a “unique” function to remove duplicates from an array.",
+      "author": "pauljlucas",
+      "tags": [
+        "c"
+      ],
+      "category": "general",
+      "score": 2,
+      "comments_count": 0,
+      "reading_time_min": 6,
+      "published_at": "2026-10-10T22:15:01Z",
+      "fetched_at": "2026-10-11T18:33:19.809182+00:00",
+      "language": "en"
+    },
+    {
+      "title": "My Commit Your Code'26 Experience",
+      "url": "https://dev.to/alvaromontoro/my-commit-your-code26-experience-2hcp",
+      "source": "devto",
+      "description": "Last month, I participated as a speaker at the Commit Your Code conference in Plano, Texas. The talks, the organization, and the people who attended, made it a very special event that left me with a big smile on my face.",
+      "author": "alvaromontoro",
+      "tags": [
+        "conference",
+        "watercooler",
+        "cyc26"
+      ],
+      "category": "career",
+      "score": 2,
+      "comments_count": 1,
+      "reading_time_min": 5,
+      "published_at": "2026-10-11T03:06:36Z",
+      "fetched_at": "2026-10-11T18:33:19.809188+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Sphinx — your neighbourhood, turned into riddles",
+      "url": "https://dev.to/devanshdubey/sphinx-your-neighbourhood-turned-into-riddles-5927",
+      "source": "devto",
+      "description": "What I Built           The screen shows one line:   I am stone, flat, and written on. One of...",
+      "author": "devanshdubey",
+      "tags": [
+        "hf26challenge",
+        "devchallenge",
+        "ai",
+        "opensource"
+      ],
+      "category": "general",
+      "score": 2,
+      "comments_count": 0,
+      "reading_time_min": 13,
+      "published_at": "2026-10-11T05:30:54Z",
+      "fetched_at": "2026-10-11T18:33:19.809228+00:00",
+      "language": "en"
+    },
+    {
+      "title": "AI Agents Are Not Users: Building an Identity Model That Reflects That",
+      "url": "https://dev.to/auth0/ai-agents-are-not-users-building-an-identity-model-that-reflects-that-1mfp",
+      "source": "devto",
+      "description": "In April 2026, an AI coding agent deleted the entire production database of PocketOS, a B2B platform...",
+      "author": "cpave3",
+      "tags": [
+        "ai",
+        "programming",
+        "security",
+        "agents"
+      ],
+      "category": "ai",
+      "score": 2,
+      "comments_count": 3,
+      "reading_time_min": 11,
+      "published_at": "2026-10-10T22:15:00Z",
+      "fetched_at": "2026-10-11T18:33:19.809235+00:00",
+      "language": "en"
+    },
+    {
+      "title": "What we ended up doing about alias propagation",
+      "url": "https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html",
+      "source": "lobsters",
+      "description": "",
+      "author": "fanf",
+      "tags": [
+        "plt",
+        "vibecoding"
+      ],
+      "category": "general",
+      "score": 2,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357503+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Hacking the Eufy Doorbell and Base Station",
+      "url": "https://adepts.of0x.cc/Eufy-DoorBell-hacking/",
+      "source": "lobsters",
+      "description": "<p><a href=\"https://adepts.of0x.cc/eufy-homestation2-firmware/\" rel=\"ugc\">Here is the follow-up dive into the base station</a></p>\n",
+      "author": "hoistbypetard",
+      "tags": [
+        "hardware",
+        "security"
+      ],
+      "category": "security",
+      "score": 2,
+      "comments_count": 1,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357526+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Idempotency keys in Stripe: safe retries after lost responses",
+      "url": "https://dev.to/axrisi/idempotency-keys-in-stripe-safe-retries-after-lost-responses-5659",
+      "source": "devto",
+      "description": "An idempotency key keeps Stripe API v1 retries tied to one action. Persist the key, respect the retry window, and reconcile ambiguous errors.",
+      "author": "axrisi",
+      "tags": [
+        "stripe",
+        "idempotency",
+        "systemdesign",
+        "apidesign"
+      ],
+      "category": "general",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 8,
+      "published_at": "2026-10-11T03:00:00Z",
+      "fetched_at": "2026-10-11T18:33:19.809255+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Making React Context Cheap with React Compiler",
+      "url": "https://jjenzz.com/making-react-context-cheap/",
+      "source": "lobsters",
+      "description": "",
+      "author": "frontsideair",
+      "tags": [
+        "javascript",
+        "web"
+      ],
+      "category": "web",
+      "score": 1,
+      "comments_count": 0,
+      "reading_time_min": 0,
+      "published_at": "",
+      "fetched_at": "2026-10-11T18:33:33.357517+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Debian sid on a Lenovo Yoga C630: Held GRUB, One-Time Boots and the IPA Reset",
+      "url": "https://dev.to/xbill/debian-sid-on-a-lenovo-yoga-c630-held-grub-one-time-boots-and-the-ipa-reset-142e",
+      "source": "devto",
+      "description": "A step by step guide to running Debian sid with kernel 7.2 and GNOME on the Snapdragon 850 Yoga C630: which boot loader the firmware runs, why GRUB 2.14 blacks out every kernel, a generated boot menu with one-time test boots, the Lenovo firmware, and the one driver that resets the SoC.",
+      "author": "xbill",
+      "tags": [
+        "linux",
+        "debian",
+        "arm64",
+        "laptop"
+      ],
+      "category": "general",
+      "score": 0,
+      "comments_count": 1,
+      "reading_time_min": 10,
+      "published_at": "2026-10-10T21:25:15Z",
+      "fetched_at": "2026-10-11T18:33:19.809207+00:00",
+      "language": "en"
+    },
+    {
+      "title": "Can You Tell the Difference Between These iOS Tab Bars?",
+      "url": "https://dev.to/codenameone/can-you-tell-the-difference-between-these-ios-tab-bars-dmg",
+      "source": "devto",
+      "description": "Reconstructing iOS 27 tab motion from real touches, spring equations, color matrices and a side-by-side simulator comparison.",
+      "author": "codenameone",
+      "tags": [
+        "java",
+        "mobile",
+        "android",
+        "ios"
+      ],
+      "category": "mobile",
+      "score": 0,
+      "comments_count": 1,
+      "reading_time_min": 6,
+      "published_at": "2026-10-11T18:18:59Z",
+      "fetched_at": "2026-10-11T18:33:19.809239+00:00",
+      "language": "en"
+    }
+  ]
+}
